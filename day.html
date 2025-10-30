@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>히로시마 여행 일정 - 상세</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+    <header class="header header-detail">
+        <div class="container">
+            <a href="index.html" class="back-button">← 돌아가기</a>
+            <h1 class="header-title" id="dayTitle">Day 1</h1>
+            <p class="header-subtitle" id="dayDate">11/7 (금)</p>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- 지도 섹션 -->
+            <section class="map-section">
+                <h2 class="section-title">📍 오늘의 동선</h2>
+                <div id="map" class="map-container"></div>
+            </section>
+
+            <!-- 일정 타임라인 -->
+            <section class="timeline-section">
+                <h2 class="section-title">⏰ 일정</h2>
+                <div class="timeline" id="timeline">
+                    <!-- 타임라인 아이템들이 동적으로 생성됩니다 -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 히로시마 여행 가이드</p>
+        </div>
+    </footer>
+
+    <script src="js/day.js"></script>
+</body>
+</html>
