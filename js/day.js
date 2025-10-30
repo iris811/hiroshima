@@ -37,39 +37,13 @@ function initMap(places) {
     }
 }
 
-// 구글 맵 URL에서 좌표 추출 (간단한 방법)
-// 실제로는 Geocoding API를 사용하는 것이 좋지만, 여기서는 기본 위치 사용
-function getCoordinatesForPlace(place, index, totalPlaces) {
-    // 히로시마 주변 좌표 (실제 프로젝트에서는 Geocoding API 사용 권장)
-    const baseCoords = {
-        lat: 34.3853,
-        lng: 132.4553
-    };
-
-    // 미야지마 섬 관련 장소인 경우
-    if (place.name.includes('이쓰쿠시마') || place.name.includes('미야지마') ||
-        place.address.includes('미야지마')) {
-        return {
-            lat: 34.2958 + (index * 0.005),
-            lng: 132.3197 + (index * 0.005)
-        };
-    }
-
-    // 그 외 히로시마 시내 장소는 중심 주변에 분산 배치
-    const offset = 0.01;
-    const angle = (index / totalPlaces) * 2 * Math.PI;
-    return {
-        lat: baseCoords.lat + Math.cos(angle) * offset,
-        lng: baseCoords.lng + Math.sin(angle) * offset
-    };
-}
-
 // 지도에 마커 추가
 function addMarkersToMap(places) {
     const bounds = [];
 
     places.forEach((place, index) => {
-        const coords = getCoordinatesForPlace(place, index, places.length);
+        // JSON 데이터에서 좌표 가져오기 (없으면 히로시마 중심 사용)
+        const coords = place.coordinates || { lat: 34.3853, lng: 132.4553 };
         const latLng = [coords.lat, coords.lng];
 
         // 커스텀 아이콘 생성

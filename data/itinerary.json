@@ -17,6 +17,7 @@
             "address": "히로시마 파르코",
             "description": "대관산의 유명 캔디 스토어. 귀여운 사탕과 디저트를 구경할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/6EKgM4JsHqJPkVbi8?g_st=ipc",
+            "coordinates": { "lat": 34.39212, "lng": 132.46265 },
             "tags": ["쇼핑", "디저트"]
           },
           {
@@ -26,6 +27,7 @@
             "address": "히로시마 시내",
             "description": "히로시마 중심부에 위치한 모던한 호텔. 편리한 접근성과 세련된 디자인이 특징입니다.",
             "mapUrl": "https://maps.app.goo.gl/bTTJDMfWKnk47JzA9?g_st=ipc",
+            "coordinates": { "lat": 34.390705, "lng": 132.4618235 },
             "tags": ["숙소", "호텔"]
           },
           {
@@ -35,6 +37,7 @@
             "address": "히로시마 시내",
             "description": "이탈리안 스타일의 카페. 파스타와 커피가 맛있는 곳입니다.",
             "mapUrl": "https://maps.app.goo.gl/gNY6ExRzNa51ewD38?g_st=ipc",
+            "coordinates": { "lat": 34.394, "lng": 132.456 },
             "tags": ["점심", "카페", "이탈리안"]
           },
           {
@@ -44,6 +47,7 @@
             "address": "오테마치",
             "description": "세련된 분위기의 카페. 커피와 디저트를 즐기기 좋습니다.",
             "mapUrl": "https://maps.app.goo.gl/isGaMRKt7jcGo33m7?g_st=ipc",
+            "coordinates": { "lat": 34.396, "lng": 132.453 },
             "tags": ["카페", "디저트"]
           },
           {
@@ -53,6 +57,7 @@
             "address": "히로시마 시내",
             "description": "일본 전역에서 유명한 우동 체인. 신선하게 만든 우동을 저렴하게 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/L4yUJNgHCyXhm9Xt7?g_st=ipc",
+            "coordinates": { "lat": 34.392, "lng": 132.459 },
             "tags": ["저녁", "우동", "일식"]
           },
           {
@@ -62,6 +67,7 @@
             "address": "미카와초",
             "description": "일본식 정식을 제공하는 레스토랑. 다양한 반찬과 함께 균형잡힌 식사를 할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/4J6xoaxaUYn2YJfx6?g_st=ipc",
+            "coordinates": { "lat": 34.391, "lng": 132.462 },
             "tags": ["저녁", "일식", "정식"]
           }
         ]
@@ -80,6 +86,7 @@
             "address": "히로시마 시내",
             "description": "히로시마의 인기 로스터리 카페. 직접 로스팅한 신선한 커피와 브런치를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/fFxBwAP9rga6WMz1A?g_st=ipc",
+            "coordinates": { "lat": 34.395, "lng": 132.460 },
             "tags": ["아침", "카페", "로스터리"]
           },
           {
@@ -89,6 +96,7 @@
             "address": "히로시마 시내",
             "description": "일본 패밀리 레스토랑 체인. 다양한 양식과 일식 메뉴를 합리적인 가격에 제공합니다.",
             "mapUrl": "https://maps.app.goo.gl/4mpoQkSmGCkDH96C6?g_st=ipc",
+            "coordinates": { "lat": 34.390, "lng": 132.465 },
             "tags": ["점심", "패밀리레스토랑"]
           },
           {
@@ -98,6 +106,7 @@
             "address": "히로시마 후츄",
             "description": "히로시마 최대 규모의 쇼핑몰. 패션, 잡화, 식당 등 다양한 매장이 입점해 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/ZtvSEdwNZZexcGD79?g_st=ipc",
+            "coordinates": { "lat": 34.394434, "lng": 132.499444 },
             "tags": ["쇼핑", "쇼핑몰"]
           },
           {
@@ -107,6 +116,7 @@
             "address": "히로시마 야가",
             "description": "회전초밥 체인점. 신선한 초밥을 합리적인 가격에 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/XyDzZCeZViEPMBWm8?g_st=ipc",
+            "coordinates": { "lat": 34.380, "lng": 132.505 },
             "tags": ["저녁", "초밥", "회전초밥"]
           },
           {
@@ -116,6 +126,7 @@
             "address": "히로시마 후쿠로마치",
             "description": "일본 가정식 뷔페 스타일 식당. 다양한 일본 가정식 요리를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/Xp5CP2ACYDzQaLs38?g_st=ipc",
+            "coordinates": { "lat": 34.394, "lng": 132.461 },
             "tags": ["저녁", "일식", "뷔페"]
           }
         ]
@@ -134,6 +145,7 @@
             "address": "히로시마 시내",
             "description": "덴마크 스타일의 베이커리 카페. 신선한 빵과 페이스트리로 유명합니다.",
             "mapUrl": "https://maps.app.goo.gl/uDzrwCJUPP6ezyor9?g_st=ipc",
+            "coordinates": { "lat": 34.393042, "lng": 132.458408 },
             "tags": ["아침", "베이커리", "카페"]
           },
           {
@@ -143,6 +155,7 @@
             "address": "미야지마",
             "description": "유네스코 세계문화유산. 바다 위에 떠 있는 듯한 붉은 도리이가 유명한 일본 3대 신사 중 하나입니다.",
             "mapUrl": "https://maps.app.goo.gl/BhqXNczUHjp3eR4c9?g_st=ipc",
+            "coordinates": { "lat": 34.295833, "lng": 132.319722 },
             "tags": ["관광", "신사", "세계문화유산"]
           },
           {
@@ -152,6 +165,7 @@
             "address": "미야지마",
             "description": "미야지마의 또 다른 명소. 전통적인 일본 건축물을 감상할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/5CiCGjdzvjCTAqSX6?g_st=ipc",
+            "coordinates": { "lat": 34.296, "lng": 132.320 },
             "tags": ["관광", "전통건축"]
           },
           {
@@ -161,6 +175,7 @@
             "address": "미야지마",
             "description": "미야지마에서 가장 역사 깊은 사원. 아름다운 정원과 500개의 나한상으로 유명합니다.",
             "mapUrl": "https://maps.app.goo.gl/SiRGCAS5hsnSbMar9?g_st=ipc",
+            "coordinates": { "lat": 34.292430, "lng": 132.318518 },
             "tags": ["관광", "사원", "정원"]
           },
           {
@@ -170,6 +185,7 @@
             "address": "미야지마",
             "description": "미야지마의 전통 레스토랑. 현지 특산물을 사용한 요리를 제공합니다.",
             "mapUrl": "https://maps.app.goo.gl/sXPzD1fyZEeow6rd9?g_st=ipc",
+            "coordinates": { "lat": 34.297, "lng": 132.318 },
             "tags": ["점심", "일식", "현지맛집"]
           },
           {
@@ -179,6 +195,7 @@
             "address": "미야지마",
             "description": "세토 내해의 해양생물을 관람할 수 있는 수족관. 가족 단위 방문객에게 인기입니다.",
             "mapUrl": "https://maps.app.goo.gl/bWktVCqc3ugQ2VH8A?g_st=ipc",
+            "coordinates": { "lat": 34.2954, "lng": 132.3154 },
             "tags": ["관광", "수족관", "가족"]
           },
           {
@@ -188,6 +205,7 @@
             "address": "미야지마",
             "description": "일본 전통 건축 양식으로 지어진 특별한 스타벅스. 미야지마의 거리와 조화를 이룹니다.",
             "mapUrl": "https://maps.app.goo.gl/FLAm1WyV1SrHRgBm7?g_st=ipc",
+            "coordinates": { "lat": 34.296, "lng": 132.319 },
             "tags": ["카페", "스타벅스"]
           },
           {
@@ -197,6 +215,7 @@
             "address": "히로시마 카미야초",
             "description": "인기 회전초밥 체인. 터치스크린으로 주문하는 편리한 시스템이 특징입니다.",
             "mapUrl": "https://maps.app.goo.gl/ZGhk2VtawqRW3WGs5?g_st=ipc",
+            "coordinates": { "lat": 34.395, "lng": 132.457 },
             "tags": ["저녁", "초밥", "회전초밥"]
           }
         ]
@@ -215,6 +234,7 @@
             "address": "에비스초",
             "description": "히로시마의 전통 있는 커피 전문점. 정통 커피와 함께 여유로운 아침을 시작할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/o61eeAWUjARKgGuaA?g_st=ipc",
+            "coordinates": { "lat": 34.388, "lng": 132.460 },
             "tags": ["아침", "카페", "커피전문점"]
           },
           {
@@ -224,6 +244,7 @@
             "address": "히로시마 시내",
             "description": "1620년에 조성된 아름다운 일본 정원. 사계절 다른 풍경을 감상할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/faUTG5HyZas3EtBp7?g_st=ipc",
+            "coordinates": { "lat": 34.399423, "lng": 132.467241 },
             "tags": ["관광", "정원", "전통"]
           },
           {
@@ -233,6 +254,7 @@
             "address": "평화 공원 인근",
             "description": "히로시마 시내를 360도로 조망할 수 있는 전망대. 평화 기념 공원을 내려다볼 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/ZbhM63fXeVAnajEH9?g_st=ipc",
+            "coordinates": { "lat": 34.39569, "lng": 132.45469 },
             "tags": ["관광", "전망대", "포토스팟"]
           },
           {
@@ -242,6 +264,7 @@
             "address": "히로시마 시내",
             "description": "어린이와 가족을 위한 과학 체험 박물관. 다양한 전시와 체험 활동이 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/EgaFNsNAQjt7eFKC6?g_st=ipc",
+            "coordinates": { "lat": 34.405, "lng": 132.455 },
             "tags": ["관광", "박물관", "체험"]
           },
           {
@@ -251,6 +274,7 @@
             "address": "평화 공원",
             "description": "원폭으로 희생된 한국인들을 추모하는 위령비. 역사적 의미가 깊은 장소입니다.",
             "mapUrl": "https://maps.app.goo.gl/rZGBLBsjfR512Efw7?g_st=ipc",
+            "coordinates": { "lat": 34.39319, "lng": 132.45475 },
             "tags": ["관광", "역사", "추모"]
           },
           {
@@ -260,6 +284,7 @@
             "address": "히로시마 시내",
             "description": "덴마크 스타일의 베이커리 레스토랑. 저녁 뷔페로 다양한 빵과 요리를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/uDzrwCJUPP6ezyor9?g_st=ipc",
+            "coordinates": { "lat": 34.393042, "lng": 132.458408 },
             "tags": ["저녁", "뷔페", "베이커리"]
           }
         ]
