@@ -54,7 +54,213 @@
             "name": "Marugame Seimen",
             "type": "식당",
             "time": "저녁 옵션1",
-            광",
+            "address": "히로시마 시내",
+            "description": "일본 전역에서 유명한 우동 체인. 신선하게 만든 우동을 저렴하게 즐길 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/L4yUJNgHCyXhm9Xt7?g_st=ipc",
+            "coordinates": { "lat": 34.392, "lng": 132.459 },
+            "tags": ["저녁", "우동", "일식"]
+          },
+          {
+            "name": "Yayoi-ken Mikawacho",
+            "type": "식당",
+            "time": "저녁 옵션2",
+            "address": "미카와초",
+            "description": "일본식 정식을 제공하는 레스토랑. 다양한 반찬과 함께 균형잡힌 식사를 할 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/4J6xoaxaUYn2YJfx6?g_st=ipc",
+            "coordinates": { "lat": 34.391, "lng": 132.462 },
+            "tags": ["저녁", "일식", "정식"]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "date": "11/8 (토)",
+        "title": "둘째 날 - 시내 쇼핑 & 이온몰",
+        "summary": "로스터리 카페에서 아침을 시작하고 이온몰에서 쇼핑과 식사",
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
+        "places": [
+          {
+            "name": "24/7 coffee&roaster ROASTERY HIROSHIMA",
+            "type": "카페",
+            "time": "아침",
+            "address": "히로시마 시내",
+            "description": "히로시마의 인기 로스터리 카페. 직접 로스팅한 신선한 커피와 브런치를 즐길 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/fFxBwAP9rga6WMz1A?g_st=ipc",
+            "coordinates": { "lat": 34.395, "lng": 132.460 },
+            "tags": ["아침", "카페", "로스터리"]
+          },
+          {
+            "name": "가스토",
+            "type": "식당",
+            "time": "점심",
+            "address": "히로시마 시내",
+            "description": "일본 패밀리 레스토랑 체인. 다양한 양식과 일식 메뉴를 합리적인 가격에 제공합니다.",
+            "mapUrl": "https://maps.app.goo.gl/4mpoQkSmGCkDH96C6?g_st=ipc",
+            "coordinates": { "lat": 34.390, "lng": 132.465 },
+            "tags": ["점심", "패밀리레스토랑"]
+          },
+          {
+            "name": "이온몰 히로시마 후츄",
+            "type": "쇼핑",
+            "time": "오후",
+            "address": "히로시마 후츄",
+            "description": "히로시마 최대 규모의 쇼핑몰. 패션, 잡화, 식당 등 다양한 매장이 입점해 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/ZtvSEdwNZZexcGD79?g_st=ipc",
+            "coordinates": { "lat": 34.394434, "lng": 132.499444 },
+            "tags": ["쇼핑", "쇼핑몰"]
+          },
+          {
+            "name": "갓파스시 히로시마 야가점",
+            "type": "식당",
+            "time": "저녁 옵션",
+            "address": "히로시마 야가",
+            "description": "회전초밥 체인점. 신선한 초밥을 합리적인 가격에 즐길 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/XyDzZCeZViEPMBWm8?g_st=ipc",
+            "coordinates": { "lat": 34.380, "lng": 132.505 },
+            "tags": ["저녁", "초밥", "회전초밥"]
+          },
+          {
+            "name": "Maidookini Hiroshimafukuromachi Shokudoten",
+            "type": "식당",
+            "time": "저녁",
+            "address": "히로시마 후쿠로마치",
+            "description": "일본 가정식 뷔페 스타일 식당. 다양한 일본 가정식 요리를 즐길 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/Xp5CP2ACYDzQaLs38?g_st=ipc",
+            "coordinates": { "lat": 34.394, "lng": 132.461 },
+            "tags": ["저녁", "일식", "뷔페"]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "date": "11/9 (일)",
+        "title": "셋째 날 - 미야지마 섬 투어",
+        "summary": "세계문화유산 이쓰쿠시마 신사와 미야지마 섬의 명소들을 둘러보는 하루",
+        "image": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800",
+        "places": [
+          {
+            "name": "히로시마 안데르센",
+            "type": "카페",
+            "time": "아침",
+            "address": "히로시마 시내",
+            "description": "덴마크 스타일의 베이커리 카페. 신선한 빵과 페이스트리로 유명합니다.",
+            "mapUrl": "https://maps.app.goo.gl/uDzrwCJUPP6ezyor9?g_st=ipc",
+            "coordinates": { "lat": 34.393042, "lng": 132.458408 },
+            "tags": ["아침", "베이커리", "카페"]
+          },
+          {
+            "name": "이쓰쿠시마 신사",
+            "type": "관광",
+            "time": "오전",
+            "address": "미야지마",
+            "description": "유네스코 세계문화유산. 바다 위에 떠 있는 듯한 붉은 도리이가 유명한 일본 3대 신사 중 하나입니다.",
+            "mapUrl": "https://maps.app.goo.gl/BhqXNczUHjp3eR4c9?g_st=ipc",
+            "coordinates": { "lat": 34.295833, "lng": 132.319722 },
+            "tags": ["관광", "신사", "세계문화유산"]
+          },
+          {
+            "name": "텐신카쿠",
+            "type": "관광",
+            "time": "",
+            "address": "미야지마",
+            "description": "미야지마의 또 다른 명소. 전통적인 일본 건축물을 감상할 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/5CiCGjdzvjCTAqSX6?g_st=ipc",
+            "coordinates": { "lat": 34.296, "lng": 132.320 },
+            "tags": ["관광", "전통건축"]
+          },
+          {
+            "name": "다이쇼인(대성원)",
+            "type": "관광",
+            "time": "",
+            "address": "미야지마",
+            "description": "미야지마에서 가장 역사 깊은 사원. 아름다운 정원과 500개의 나한상으로 유명합니다.",
+            "mapUrl": "https://maps.app.goo.gl/SiRGCAS5hsnSbMar9?g_st=ipc",
+            "coordinates": { "lat": 34.292430, "lng": 132.318518 },
+            "tags": ["관광", "사원", "정원"]
+          },
+          {
+            "name": "水羽荘（レストラン）",
+            "type": "식당",
+            "time": "점심",
+            "address": "미야지마",
+            "description": "미야지마의 전통 레스토랑. 현지 특산물을 사용한 요리를 제공합니다.",
+            "mapUrl": "https://maps.app.goo.gl/sXPzD1fyZEeow6rd9?g_st=ipc",
+            "coordinates": { "lat": 34.297, "lng": 132.318 },
+            "tags": ["점심", "일식", "현지맛집"]
+          },
+          {
+            "name": "미야지마 수족관",
+            "type": "관광",
+            "time": "오후",
+            "address": "미야지마",
+            "description": "세토 내해의 해양생물을 관람할 수 있는 수족관. 가족 단위 방문객에게 인기입니다.",
+            "mapUrl": "https://maps.app.goo.gl/bWktVCqc3ugQ2VH8A?g_st=ipc",
+            "coordinates": { "lat": 34.2954, "lng": 132.3154 },
+            "tags": ["관광", "수족관", "가족"]
+          },
+          {
+            "name": "스타벅스 커피 - 이쓰쿠시마 오모테산도점",
+            "type": "카페",
+            "time": "",
+            "address": "미야지마",
+            "description": "일본 전통 건축 양식으로 지어진 특별한 스타벅스. 미야지마의 거리와 조화를 이룹니다.",
+            "mapUrl": "https://maps.app.goo.gl/FLAm1WyV1SrHRgBm7?g_st=ipc",
+            "coordinates": { "lat": 34.296, "lng": 132.319 },
+            "tags": ["카페", "스타벅스"]
+          },
+          {
+            "name": "쿠라스시 히로시마카미야초점",
+            "type": "식당",
+            "time": "저녁",
+            "address": "히로시마 카미야초",
+            "description": "인기 회전초밥 체인. 터치스크린으로 주문하는 편리한 시스템이 특징입니다.",
+            "mapUrl": "https://maps.app.goo.gl/ZGhk2VtawqRW3WGs5?g_st=ipc",
+            "coordinates": { "lat": 34.395, "lng": 132.457 },
+            "tags": ["저녁", "초밥", "회전초밥"]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "date": "11/10 (월)",
+        "title": "넷째 날 - 평화 기념관 & 문화 탐방",
+        "summary": "히로시마 평화 공원과 문화 시설들을 방문하며 역사를 되돌아보는 하루",
+        "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800",
+        "places": [
+          {
+            "name": "Asahi Coffee Salon Ebisucho",
+            "type": "카페",
+            "time": "아침",
+            "address": "에비스초",
+            "description": "히로시마의 전통 있는 커피 전문점. 정통 커피와 함께 여유로운 아침을 시작할 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/o61eeAWUjARKgGuaA?g_st=ipc",
+            "coordinates": { "lat": 34.388, "lng": 132.460 },
+            "tags": ["아침", "카페", "커피전문점"]
+          },
+          {
+            "name": "슛케이엔",
+            "type": "관광",
+            "time": "오전",
+            "address": "히로시마 시내",
+            "description": "1620년에 조성된 아름다운 일본 정원. 사계절 다른 풍경을 감상할 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/faUTG5HyZas3EtBp7?g_st=ipc",
+            "coordinates": { "lat": 34.399423, "lng": 132.467241 },
+            "tags": ["관광", "정원", "전통"]
+          },
+          {
+            "name": "오리즈루 타워",
+            "type": "관광",
+            "time": "",
+            "address": "평화 공원 인근",
+            "description": "히로시마 시내를 360도로 조망할 수 있는 전망대. 평화 기념 공원을 내려다볼 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/ZbhM63fXeVAnajEH9?g_st=ipc",
+            "coordinates": { "lat": 34.39569, "lng": 132.45469 },
+            "tags": ["관광", "전망대", "포토스팟"]
+          },
+          {
+            "name": "5-Days Children's Cultural Science Museum",
+            "type": "관광",
+            "time": "",
             "address": "히로시마 시내",
             "description": "어린이와 가족을 위한 과학 체험 박물관. 다양한 전시와 체험 활동이 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/EgaFNsNAQjt7eFKC6?g_st=ipc",
