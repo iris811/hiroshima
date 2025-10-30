@@ -46,10 +46,15 @@ function addMarkersToMap(places) {
         const coords = place.coordinates || { lat: 34.3853, lng: 132.4553 };
         const latLng = [coords.lat, coords.lng];
 
+        // 숙소인 경우 다른 색상 사용
+        const isHotel = place.type === '숙소' || place.name.includes('KIRO') || place.name.includes('HOTEL');
+        const markerColor = isHotel ? '#FF6B6B' : '#4ECDC4';
+        const markerIcon = isHotel ? '🏨' : (index + 1);
+
         // 커스텀 아이콘 생성
         const icon = L.divIcon({
             className: 'custom-marker',
-            html: `<div style="background-color: #4ECDC4; color: white; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-weight: bold; border: 3px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">${index + 1}</div>`,
+            html: `<div style="background-color: ${markerColor}; color: white; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-weight: bold; border: 3px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">${markerIcon}</div>`,
             iconSize: [35, 35],
             iconAnchor: [17, 17]
         });
