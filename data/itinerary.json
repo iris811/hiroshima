@@ -11,15 +11,6 @@
         "image": "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=800",
         "places": [
           {
-            "name": "히로시마 공항",
-            "type": "교통",
-            "time": "9:30 도착",
-            "address": "미하라시",
-            "description": "인천공항 제1터미널에서 오전 7시 45분 비행기로 출발합니다. 히로시마 공항에는 9시 30분에 도착 예정입니다.",
-            "mapUrl": "https://www.hij.airport.jp/ko/",
-            "tags": ["공항", "입국", "도착"]
-          },
-          {
             "name": "代官山 Candy Apple｜パルコ広島店",
             "type": "쇼핑",
             "time": "",
