@@ -18,7 +18,8 @@
             "description": "대관산의 유명 캔디 스토어. 귀여운 사탕과 디저트를 구경할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/6EKgM4JsHqJPkVbi8?g_st=ipc",
             "coordinates": { "lat": 34.39212, "lng": 132.46265 },
-            "tags": ["쇼핑", "디저트"]
+            "tags": ["쇼핑", "디저트"],
+            "referenceUrl": "https://www.setouchi-sanpo.com/articles/80470/"
           },
           {
             "name": "KIRO Hiroshima by THE SHARE HOTELS",
@@ -28,7 +29,8 @@
             "description": "히로시마 중심부에 위치한 모던한 호텔. 편리한 접근성과 세련된 디자인이 특징입니다.",
             "mapUrl": "https://maps.app.goo.gl/bTTJDMfWKnk47JzA9?g_st=ipc",
             "coordinates": { "lat": 34.390705, "lng": 132.4618235 },
-            "tags": ["숙소", "호텔"]
+            "tags": ["숙소", "호텔"],
+            "referenceUrl": "https://www.tripadvisor.com/Hotel_Review-g298561-d17731903-Reviews-KIRO_Hiroshima_by_THE_SHARE_HOTELS-Hiroshima_Hiroshima_Prefecture_Chugoku.html"
           },
           {
             "name": "Caffè Ponte",
@@ -38,7 +40,8 @@
             "description": "이탈리안 스타일의 카페. 파스타와 커피가 맛있는 곳입니다.",
             "mapUrl": "https://maps.app.goo.gl/gNY6ExRzNa51ewD38?g_st=ipc",
             "coordinates": { "lat": 34.394, "lng": 132.456 },
-            "tags": ["점심", "카페", "이탈리안"]
+            "tags": ["점심", "카페", "이탈리안"],
+            "referenceUrl": "http://www.caffeponte.com/"
           },
           {
             "name": "ALOFT 大手町店",
@@ -87,7 +90,8 @@
             "description": "히로시마의 인기 로스터리 카페. 직접 로스팅한 신선한 커피와 브런치를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/fFxBwAP9rga6WMz1A?g_st=ipc",
             "coordinates": { "lat": 34.395, "lng": 132.460 },
-            "tags": ["아침", "카페", "로스터리"]
+            "tags": ["아침", "카페", "로스터리"],
+            "referenceUrl": "https://tabelog.com/en/hiroshima/A3401/A340102/34018238/"
           },
           {
             "name": "가스토",
@@ -107,7 +111,8 @@
             "description": "히로시마 최대 규모의 쇼핑몰. 패션, 잡화, 식당 등 다양한 매장이 입점해 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/ZtvSEdwNZZexcGD79?g_st=ipc",
             "coordinates": { "lat": 34.394434, "lng": 132.499444 },
-            "tags": ["쇼핑", "쇼핑몰"]
+            "tags": ["쇼핑", "쇼핑몰"],
+            "referenceUrl": "https://matcha-jp.com/ko/11239"
           },
           {
             "name": "Maidookini Hiroshimafukuromachi Shokudoten",
@@ -156,7 +161,8 @@
             "description": "유네스코 세계문화유산. 바다 위에 떠 있는 듯한 붉은 도리이가 유명한 일본 3대 신사 중 하나입니다.",
             "mapUrl": "https://maps.app.goo.gl/BhqXNczUHjp3eR4c9?g_st=ipc",
             "coordinates": { "lat": 34.295833, "lng": 132.319722 },
-            "tags": ["관광", "신사", "세계문화유산"]
+            "tags": ["관광", "신사", "세계문화유산"],
+            "referenceUrl": "https://matcha-jp.com/ko/1573"
           },
           {
             "name": "텐신카쿠",
@@ -176,7 +182,8 @@
             "description": "미야지마에서 가장 역사 깊은 사원. 아름다운 정원과 500개의 나한상으로 유명합니다.",
             "mapUrl": "https://maps.app.goo.gl/SiRGCAS5hsnSbMar9?g_st=ipc",
             "coordinates": { "lat": 34.292430, "lng": 132.318518 },
-            "tags": ["관광", "사원", "정원"]
+            "tags": ["관광", "사원", "정원"],
+            "referenceUrl": "https://matcha-jp.com/ko/2612"
           },
           {
             "name": "水羽荘（レストラン）",
@@ -196,7 +203,8 @@
             "description": "10000여종 이상의 해양생물을 관람할 수 있는 수족관. 해양 생물을 직접 만져볼 수 있는 이벤트 등 다양한 볼거리가 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/bWktVCqc3ugQ2VH8A?g_st=ipc",
             "coordinates": { "lat": 34.2954, "lng": 132.3154 },
-            "tags": ["관광", "수족관", "가족"]
+            "tags": ["관광", "수족관", "가족"],
+            "referenceUrl": "https://ikidane-nippon.com/ko/spots/miyajima-public-aquarium-miyajimarine"
           },
           {
             "name": "스타벅스 커피 - 이쓰쿠시마 오모테산도점",
@@ -245,7 +253,8 @@
             "description": "1620년에 조성된 아름다운 일본 정원. 사계절 다른 풍경을 감상할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/faUTG5HyZas3EtBp7?g_st=ipc",
             "coordinates": { "lat": 34.399423, "lng": 132.467241 },
-            "tags": ["관광", "정원", "전통"]
+            "tags": ["관광", "정원", "전통"],
+            "referenceUrl": "https://www.outdoornews.co.kr/news/articleView.html?idxno=34453"
           },
           {
             "name": "오리즈루 타워",
@@ -275,7 +284,8 @@
             "description": "원폭으로 희생된 한국인들을 추모하는 위령비. 역사적 의미가 깊은 장소입니다.",
             "mapUrl": "https://maps.app.goo.gl/rZGBLBsjfR512Efw7?g_st=ipc",
             "coordinates": { "lat": 34.39319, "lng": 132.45475 },
-            "tags": ["관광", "역사", "추모"]
+            "tags": ["관광", "역사", "추모"],
+            "referenceUrl": "https://kr.visithiroshima.net/world_heritage/a-bomb_dome.html"
           },
           {
             "name": "히로시마 안데르센",

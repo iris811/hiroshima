@@ -102,6 +102,11 @@ function createTimelineItem(place, index) {
     const timeHtml = place.time ?
         `<span class="timeline-time">${place.time}</span>` : '';
 
+    const referenceHtml = place.referenceUrl ?
+        `<a href="${place.referenceUrl}" target="_blank" class="timeline-map-link" style="margin-right: 10px;">
+            📝 블로그/리뷰 보기
+        </a>` : '';
+
     item.innerHTML = `
         <div class="timeline-header">
             <h3 class="timeline-title">${index + 1}. ${place.name}</h3>
@@ -112,9 +117,12 @@ function createTimelineItem(place, index) {
         <div class="timeline-tags">
             ${tags}
         </div>
-        <a href="${place.mapUrl}" target="_blank" class="timeline-map-link">
-            📍 구글 지도에서 보기
-        </a>
+        <div style="display: flex; gap: 10px; margin-top: 10px;">
+            ${referenceHtml}
+            <a href="${place.mapUrl}" target="_blank" class="timeline-map-link">
+                📍 구글 지도에서 보기
+            </a>
+        </div>
     `;
 
     // 클릭 시 해당 마커 표시
