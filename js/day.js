@@ -49,7 +49,7 @@ function addMarkersToMap(places) {
         // 숙소인 경우 다른 색상 사용
         const isHotel = place.type === '숙소' || place.name.includes('KIRO') || place.name.includes('HOTEL');
         const markerColor = isHotel ? '#FF6B6B' : '#4ECDC4';
-        const markerIcon = isHotel ? '🏨' : (index + 1);
+        const markerIcon = index + 1; // 모든 마커에 숫자 표시
 
         // 커스텀 아이콘 생성
         const icon = L.divIcon({
