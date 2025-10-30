@@ -40,16 +40,22 @@ function initMap(places) {
 // 지도에 마커 추가
 function addMarkersToMap(places) {
     const bounds = [];
+    let markerIndex = 1; // 마커 번호를 위한 별도 카운터
 
     places.forEach((place, index) => {
-        // JSON 데이터에서 좌표 가져오기 (없으면 히로시마 중심 사용)
-        const coords = place.coordinates || { lat: 34.3853, lng: 132.4553 };
+        // coordinates가 없으면 마커 추가하지 않음
+        if (!place.coordinates) {
+            markers.push(null); // 인덱스 맞추기 위해 null 추가
+            return;
+        }
+
+        const coords = place.coordinates;
         const latLng = [coords.lat, coords.lng];
 
         // 숙소인 경우 다른 색상 사용
         const isHotel = place.type === '숙소' || place.name.includes('KIRO') || place.name.includes('HOTEL');
         const markerColor = isHotel ? '#FF6B6B' : '#4ECDC4';
-        const markerIcon = index + 1; // 모든 마커에 숫자 표시
+        const markerIcon = markerIndex; // 마커 번호 사용
 
         // 커스텀 아이콘 생성
         const icon = L.divIcon({
@@ -75,6 +81,7 @@ function addMarkersToMap(places) {
         marker.bindPopup(popupContent);
         markers.push(marker);
         bounds.push(latLng);
+        markerIndex++; // 다음 마커를 위해 증가
     });
 
     // 모든 마커가 보이도록 지도 범위 조정
