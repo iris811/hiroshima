@@ -295,7 +295,28 @@
         "title": "마지막 날 - 귀국",
         "summary": "아쉬운 작별, 히로시마에서의 추억을 안고 귀국하는 날",
         "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800",
-        "places": []
+        "places": [
+          {
+            "name": "히로시마 버스센터",
+            "type": "교통",
+            "time": "7:30까지",
+            "address": "히로시마 시내",
+            "description": "공항 리무진 버스 탑승을 위해 히로시마 버스센터에 7시 30분까지 도착해야 합니다. 호텔에서 여유있게 출발하세요.",
+            "mapUrl": "https://www.h-buscenter.com/en/access/",
+            "coordinates": { "lat": 34.3963, "lng": 132.4567 },
+            "tags": ["교통", "공항버스", "체크아웃"]
+          },
+          {
+            "name": "히로시마 공항",
+            "type": "교통",
+            "time": "10:30 출발",
+            "address": "미하라시",
+            "description": "히로시마 공항에서 오전 10시 30분에 비행기를 타고 한국으로 돌아가는 날입니다. 즐거운 여행이었습니다!",
+            "mapUrl": "https://www.hij.airport.jp/ko/",
+            "coordinates": { "lat": 34.436111, "lng": 132.919444 },
+            "tags": ["공항", "출국", "귀국"]
+          }
+        ]
       }
     ]
   }

@@ -255,6 +255,7 @@ body {
 .type-관광 { background: #E3F2FD; color: #1976D2; }
 .type-쇼핑 { background: #FCE4EC; color: #C2185B; }
 .type-숙소 { background: #F3E5F5; color: #7B1FA2; }
+.type-교통 { background: #FFF9C4; color: #F57F17; }
 
 .timeline-description {
     font-size: 1rem;
