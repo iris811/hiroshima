@@ -96,12 +96,23 @@
           {
             "name": "가스토",
             "type": "식당",
-            "time": "점심",
+            "time": "점심 옵션1",
             "address": "히로시마 시내",
             "description": "일본 패밀리 레스토랑 체인. 다양한 양식과 일식 메뉴를 합리적인 가격에 제공합니다.",
             "mapUrl": "https://maps.app.goo.gl/4mpoQkSmGCkDH96C6?g_st=ipc",
             "coordinates": { "lat": 34.390, "lng": 132.465 },
             "tags": ["점심", "패밀리레스토랑"]
+          },
+          {
+            "name": "갓파스시 히로시마 야가점",
+            "type": "식당",
+            "time": "점심 옵션2",
+            "address": "히로시마 야가",
+            "description": "회전초밥 체인점. 신선한 초밥을 합리적인 가격에 즐길 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/XyDzZCeZViEPMBWm8?g_st=ipc",
+            "coordinates": { "lat": 34.380, "lng": 132.505 },
+            "tags": ["점심", "초밥", "회전초밥"],
+            "referenceUrl": "https://blog.naver.com/dkfjal1004/223508120020"
           },
           {
             "name": "이온몰 히로시마 후츄",
@@ -112,27 +123,18 @@
             "mapUrl": "https://maps.app.goo.gl/ZtvSEdwNZZexcGD79?g_st=ipc",
             "coordinates": { "lat": 34.394434, "lng": 132.499444 },
             "tags": ["쇼핑", "쇼핑몰"],
-            "referenceUrl": "https://matcha-jp.com/ko/11239"
+            "referenceUrl": "https://blog.naver.com/xksl94/223346401032"
           },
           {
-            "name": "Maidookini Hiroshimafukuromachi Shokudoten",
+            "name": "마이도 오오키니 (Maidookini Hiroshimafukuromachi Shokudoten)",
             "type": "식당",
             "time": "저녁 옵션1",
             "address": "히로시마 후쿠로마치",
             "description": "일본 가정식 뷔페 스타일 식당. 다양한 일본 가정식 요리를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/Xp5CP2ACYDzQaLs38?g_st=ipc",
             "coordinates": { "lat": 34.394, "lng": 132.461 },
-            "tags": ["저녁", "일식", "뷔페"]
-          },
-          {
-            "name": "갓파스시 히로시마 야가점",
-            "type": "식당",
-            "time": "저녁 옵션2",
-            "address": "히로시마 야가",
-            "description": "회전초밥 체인점. 신선한 초밥을 합리적인 가격에 즐길 수 있습니다.",
-            "mapUrl": "https://maps.app.goo.gl/XyDzZCeZViEPMBWm8?g_st=ipc",
-            "coordinates": { "lat": 34.380, "lng": 132.505 },
-            "tags": ["저녁", "초밥", "회전초밥"]
+            "tags": ["저녁", "일식", "뷔페"],
+            "referenceUrl": "https://blog.naver.com/writeun032/224000412570"
           }
         ]
       },
