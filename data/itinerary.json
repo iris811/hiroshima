@@ -303,12 +303,23 @@
           {
             "name": "히로시마 안데르센",
             "type": "식당",
-            "time": "저녁",
+            "time": "저녁 옵션1",
             "address": "히로시마 시내",
             "description": "덴마크 스타일의 베이커리 레스토랑. 저녁 뷔페로 다양한 빵과 요리를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/uDzrwCJUPP6ezyor9?g_st=ipc",
             "coordinates": { "lat": 34.393042, "lng": 132.458408 },
             "tags": ["저녁", "뷔페", "베이커리"]
+          },
+          {
+            "name": "oyster bar バルタン7 (BALTAN seven)",
+            "type": "식당",
+            "time": "저녁 옵션2",
+            "address": "히로시마 하쵸보리",
+            "description": "호텔 근처의 오이스터 바 & 이탈리안 레스토랑. 히로시마 굴과 세토우치 해산물 요리를 즐길 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/6GgroQRqQ5D8EEyB7",
+            "coordinates": { "lat": 34.3907385, "lng": 132.4613185 },
+            "tags": ["저녁", "굴요리", "오이스터바", "이탈리안"],
+            "referenceUrl": "https://tabelog.com/en/hiroshima/A3401/A340114/34032793/"
           }
         ]
       },
