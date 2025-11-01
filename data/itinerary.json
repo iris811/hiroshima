@@ -277,17 +277,19 @@
             "description": "히로시마 시내를 360도로 조망할 수 있는 전망대. 평화 기념 공원을 내려다볼 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/ZbhM63fXeVAnajEH9?g_st=ipc",
             "coordinates": { "lat": 34.39569, "lng": 132.45469 },
-            "tags": ["관광", "전망대", "포토스팟"]
+            "tags": ["관광", "전망대", "포토스팟"],
+            "referenceUrl": "https://dive-hiroshima.com/kr/explore/2817/"
           },
           {
-            "name": "5-Days Children's Cultural Science Museum",
+            "name": "5-Days 어린이 문화 과학관",
             "type": "관광",
             "time": "오후 관광",
             "address": "히로시마 시내",
             "description": "어린이와 가족을 위한 과학 체험 박물관. 다양한 전시와 체험 활동이 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/EgaFNsNAQjt7eFKC6?g_st=ipc",
             "coordinates": { "lat": 34.405, "lng": 132.455 },
-            "tags": ["관광", "박물관", "체험"]
+            "tags": ["관광", "박물관", "체험"],
+            "referenceUrl": "https://dive-hiroshima.com/kr/explore/4203/"
           },
           {
             "name": "한국/조선인 원폭 희생자 위령비",
@@ -298,7 +300,7 @@
             "mapUrl": "https://maps.app.goo.gl/rZGBLBsjfR512Efw7?g_st=ipc",
             "coordinates": { "lat": 34.39319, "lng": 132.45475 },
             "tags": ["관광", "역사", "추모"],
-            "referenceUrl": "https://kr.visithiroshima.net/world_heritage/a-bomb_dome.html"
+            "referenceUrl": "https://dive-hiroshima.com/kr/explore/3281/"
           },
           {
             "name": "히로시마 안데르센",
