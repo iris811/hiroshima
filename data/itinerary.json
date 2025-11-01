@@ -165,14 +165,15 @@
             "referenceUrl": "https://matcha-jp.com/ko/1573"
           },
           {
-            "name": "텐신카쿠",
-            "type": "관광",
-            "time": "오전 관광",
-            "address": "미야지마",
-            "description": "미야지마의 또 다른 명소. 전통적인 일본 건축물을 감상할 수 있습니다.",
-            "mapUrl": "https://maps.app.goo.gl/5CiCGjdzvjCTAqSX6?g_st=ipc",
-            "coordinates": { "lat": 34.296, "lng": 132.320 },
-            "tags": ["관광", "전통건축"]
+            "name": "tuGiico (ツギイコ)",
+            "type": "식당",
+            "time": "굴 식당",
+            "address": "미야지마구치",
+            "description": "신선한 현지산 굴을 직접 구워먹는 오이스터 바. 페리 터미널에서 도보 8분. 생굴부터 다양한 조리법의 굴 요리를 즐길 수 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/GnmsjZcuHCqPt9jV9",
+            "coordinates": { "lat": 34.2977905, "lng": 132.3213254 },
+            "tags": ["식당", "굴요리", "오이스터바"],
+            "referenceUrl": "https://tabelog.com/en/hiroshima/A3402/A340202/34029229/"
           },
           {
             "name": "다이쇼인(대성원)",
@@ -207,14 +208,26 @@
             "referenceUrl": "https://ikidane-nippon.com/ko/spots/miyajima-public-aquarium-miyajimarine"
           },
           {
-            "name": "스타벅스 커피 - 이쓰쿠시마 오모테산도점",
+            "name": "텐신카쿠(天心閣)",
             "type": "카페",
-            "time": "오후 관광",
+            "time": "카페 옵션1",
             "address": "미야지마",
-            "description": "미야지마 내 일본 전통 건축 양식으로 지어진 특별한 스타벅스. 바다를 보면서 커피를 마실 수 있습니다",
-            "mapUrl": "https://maps.app.goo.gl/FLAm1WyV1SrHRgBm7?g_st=ipc",
-            "coordinates": { "lat": 34.296, "lng": 132.319 },
-            "tags": ["카페", "스타벅스"]
+            "description": "언덕 위 숨은 카페. 오층탑과 센죠카쿠, 바다 전망이 멋지며 자가 로스팅 커피를 즐길 수 있습니다. 입장료 550엔.",
+            "mapUrl": "https://www.google.com/maps/place/%ED%85%90%EC%8B%A0%EC%B9%B4%EC%BF%A0/@34.2964897,132.3214503,17z",
+            "coordinates": { "lat": 34.2964897, "lng": 132.3214503 },
+            "tags": ["카페", "전망", "커피"],
+            "referenceUrl": "https://tabelog.com/en/hiroshima/A3402/A340202/34020635/"
+          },
+          {
+            "name": "KAKIWAI (牡蠣祝)",
+            "type": "카페",
+            "time": "카페 옵션2",
+            "address": "미야지마",
+            "description": "100년 된 마을 집을 개조한 언덕 위 카페. 오층탑과 바다를 조망하며 신선한 굴 요리와 60-70종의 음료를 즐길 수 있습니다.",
+            "mapUrl": "https://www.google.com/maps/place/KAKIWAI/@34.2970812,132.3216913,17z",
+            "coordinates": { "lat": 34.2970812, "lng": 132.3216913 },
+            "tags": ["카페", "굴요리", "전망"],
+            "referenceUrl": "https://en.japantravel.com/hiroshima/caf%C3%A9-kakiwai/17453"
           },
           {
             "name": "쿠라스시 히로시마카미야초점",
