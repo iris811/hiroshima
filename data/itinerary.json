@@ -137,12 +137,12 @@
             "name": "24/7 coffee&roaster ROASTERY HIROSHIMA",
             "type": "카페",
             "time": "아침",
-            "address": "히로시마 시내",
-            "description": "히로시마의 인기 로스터리 카페. 직접 로스팅한 신선한 커피와 브런치를 즐길 수 있습니다.",
-            "mapUrl": "https://maps.app.goo.gl/fFxBwAP9rga6WMz1A?g_st=ipc",
+            "address": "히로시마시 나카구 나카마치 (후쿠로마치역 도보 5분)",
+            "description": "히로시마의 인기 로스터리 카페. 직접 로스팅한 신선한 커피와 브런치를 즐길 수 있습니다. 중구 나카마치에 위치한 본점입니다.",
+            "mapUrl": "https://maps.app.goo.gl/foXGpWjaLxFpL5a19",
             "coordinates": {
-              "lat": 34.395,
-              "lng": 132.46
+              "lat": 34.3907822,
+              "lng": 132.4600037
             },
             "tags": [
               "아침",
