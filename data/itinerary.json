@@ -135,6 +135,17 @@
             "coordinates": { "lat": 34.394, "lng": 132.461 },
             "tags": ["저녁", "일식", "뷔페"],
             "referenceUrl": "https://blog.naver.com/writeun032/224000412570"
+          },
+          {
+            "name": "미짱 (Micchan) - 후쿠야점",
+            "type": "식당",
+            "time": "저녁 옵션2",
+            "address": "후쿠야 백화점 지하 (6-26 Ebisucho, Naka Ward)",
+            "description": "1950년에 창업한 히로시마 오코노미야키의 원조 맛집. 히로시마 시내 중심부 후쿠야 백화점 지하에 위치하며, 소바/우동 면, 오징어, 모찌, 베이컨이 들어간 스페셜 오코노미야키가 인기입니다.",
+            "mapUrl": "https://maps.app.goo.gl/Xijj19cMjWhUjhsK7?g_st=ipc",
+            "coordinates": { "lat": 34.388, "lng": 132.460 },
+            "tags": ["저녁", "오코노미야키", "일식", "현지맛집"],
+            "referenceUrl": "https://en.japantravel.com/hiroshima/micchan-okonomiyaki/1216"
           }
         ]
       },
