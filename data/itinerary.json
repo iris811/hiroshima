@@ -11,7 +11,7 @@
         "image": "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=800",
         "places": [
           {
-            "name": "代官山 Candy Apple｜パルコ広島店",
+            "name": "Candy Apple (代官山)",
             "type": "쇼핑",
             "time": "",
             "address": "히로시마 파르코",
@@ -26,7 +26,7 @@
               "디저트"
             ],
             "referenceUrl": "https://www.setouchi-sanpo.com/articles/80470/",
-            "photoUrl": "https://places.googleapis.com/v1/places/ChIJnV_jlr-jWjURr9NZwaLjpbo/photos/AWn5SU5-a6VxbOLmhfDc2iuegBuIjtrRLlB6Pf45P0ItHLwgZtGkhYFQmZAp3D1YJYvXROmsmsdglm2eGJq6aU0DlWwjY0XGCkIkDl3sKp037ZmWhvAKmcdtpBh7Wiv3N0xKBvRAJf_gdDnxLj-yMYzMKppOcAyPOG9xSGnFEGzKU8H4bMU2aGCGu-c0Br7SLT131JVLdXFxphEpiS-x4wxsQ-iJVcquWNeLV-d86mLN47lVEjMauA4UfVxY3wWSSEkF1P9Pp5KRcUXWNP205hvbGkuEHWKT-kkR8IcDvoXX-pRWFNDIawlDP2Fqk5BdyPQhiYYgsW2eig3CS9laMDRLRCSPRUH-wWO3FG0QvtsaKBO_BM1Gyb6Fw2-4Rb0BixO2u6K75a4DHSjbmgnjMCXMmk0kGkEQ1lx4jZouTB9hogzF9AzD/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "photoUrl": "https://setouchi-sanpo.hldycdn.com/wp-content/uploads/2023/10/06142238/image20231006-1-116sim2.webp",
             "placeId": "ChIJnV_jlr-jWjURr9NZwaLjpbo"
           },
           {
@@ -45,7 +45,7 @@
               "호텔"
             ],
             "referenceUrl": "https://www.tripadvisor.com/Hotel_Review-g298561-d17731903-Reviews-KIRO_Hiroshima_by_THE_SHARE_HOTELS-Hiroshima_Hiroshima_Prefecture_Chugoku.html",
-            "photoUrl": "https://places.googleapis.com/v1/places/ChIJo2EDnSyjWjUR8zpbgXJ_oKA/photos/AWn5SU63p2Ummag8i-R8uvxBL3oe7g6hcM9MBsvvsqfrL_3l_NVhiCJqcs5e5l5qQ9Jgw1mbcpGIJIRn0hp-lE4BcKMs5MdseBBFdY10I1wbIZY-j3_vcbV1xrPvTGcr86YpnSv9C4jEg-d0lHuAtsj0ceEu1pW0C4hZ2fAQiKfVlDn2HECwgcqoT4_3qDxjTW42E0qgpf0F1u6O5G-FCiAKrQb-4wX2rOInZUQH1GdQs4dLUgqD88l5QyS758_4wcyIhCPYJ0os2v1j5aOpZ6CxN7J8JtJWDKZoaAAv-xlTuLnktA/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "photoUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461407644.jpg?k=bc7ca09184a3f42d321c1cf9674534101515716ceea609d613a9be96503c4731&o=",
             "placeId": "ChIJo2EDnSyjWjUR8zpbgXJ_oKA"
           },
           {
@@ -65,11 +65,11 @@
               "이탈리안"
             ],
             "referenceUrl": "http://www.caffeponte.com/",
-            "photoUrl": "https://places.googleapis.com/v1/places/ChIJAz10Fw2iWjUR1QVAzyoberA/photos/AWn5SU4FcDiM1Xd_2BNi969Dx44X7V0pjqSz8MrnTO6op2nr-E724gTJz-GXexjg7r6TXZe2aFxtSIjduNNzI0qOaH99J4DE7CJKLEOe75x0hvlobRD8ZiwgZAUWRt4gP4jNklgULdp6DKD6hHvqLJZR2A1jAFCKUVuZYFjzWQU0w5a8mXqN4PdLOG04S19pcuNoB922JaYdeNAlzu2yg5bRpeyWBV2Hx_Zz2pscIJ-H1VjZEs422nflpWt18nUSZgwZhZ7OKV25l_1fpraJfTlGr-qvLUM_oVXlu6DK-mH3qw67pA-veuPmiyyS82xvuE7aFEkPwuXSqXSGInKm8M8QvCxGIfm5HprN3n9H2UY4pwxCGlSRYHFLTDkPPsC3p1v5TvbS2EVDVh4Lz75cA0owwQbkAZSnoWcjlljgLZ7ZuvVJLNiJ/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "photoUrl": "https://tblg.k-img.com/resize/660x370c/restaurant/images/Rvw/145704/145704162.jpg?token=af7b9ec&api=v2",
             "placeId": "ChIJAz10Fw2iWjUR1QVAzyoberA"
           },
           {
-            "name": "ALOFT 大手町店",
+            "name": "ALOFT (大手町店)",
             "type": "카페",
             "time": "",
             "address": "오테마치",
@@ -83,11 +83,11 @@
               "카페",
               "디저트"
             ],
-            "photoUrl": "https://places.googleapis.com/v1/places/ChIJPaL4vD2jWjURPCl2In7WNC8/photos/AWn5SU7Ru8aAAyGLkjf1MLxaUOP_qCnER0_vf7S_WIKSN8RyJ8E0CCZZuq-o0v1YE7rSQyfN3WMy99H4XcRpleoG4XVryXO6GLGGxlBDetbnjulSTzfcETjbXuxWYEnAIfMg-23wVnf39M5TDzilO3soRj2YyTandPFHuNaD1iKixnXGUGexY7zxIUtOj8pCrQ9b-Ia1k5JbdiPRWORYWSCKbMjxKY1tOa0-99E14neXU3iv2_5Z9XZrWatKxg7iNEbIyPBqOnMD2eVk9UEy7JTdBx8vBuO8RTtY5npQAb5qef7za9A6zvaN4uHMpd8akit7eTLPscOBoocz-nznhFInazRf3tzxq9wnJdLpZzuDySszAyX7zxlCpUVQVcefZANieTBjpSgEp1IT0EPy1igrN5e9XtSaTYPSY4sGmBrPpt0_Hg/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "photoUrl": "https://www.aloft.co.jp/wp-content/themes/aloft/cmn/img/shoplist/shop07.jpg?v=202507290211",
             "placeId": "ChIJPaL4vD2jWjURPCl2In7WNC8"
           },
           {
-            "name": "Marugame Seimen",
+            "name": "마루가메세멘 (丸亀製麺広島新天地)",
             "type": "식당",
             "time": "저녁 옵션1",
             "address": "히로시마 시내",
@@ -102,11 +102,11 @@
               "우동",
               "일식"
             ],
-            "photoUrl": "https://places.googleapis.com/v1/places/ChIJVdLXKzOiWjURuHFeA9xjHPI/photos/AWn5SU6xq-7a4vQYZbyu6xCc18gYmjIlcRA61JSBJrNCLFCPF4Or6lsq5SWpCLCie1J-OmAkdENgArqAk2Q6ecCHSa4mfqjZqLX1qwBnIuuAjNwm4m1zdhp_vYyFx7RtkYOanGpHezq1vFoiI7h-dgASDfpHQnbgG_8lvK-tm7bBI3HJJh50g0Rhb1E3jBpukMAJXuWaqTCHXGCx4kNCFqfG5180BYp6Yn-F7-AHwhUNUlsJ1EaX1NzGD-XN2R0dgjVXdiXND7CQqfDu0vwzTwEePf2vFXfG3UBmQQU6a5NbzcLK0Bs45723qGwm7-aogYAIyPhn1FlQQWvfU942zXvH1xpyNqRTgjwXy6kG1Ox1C-FJMbU8JRNZc4Fb2o-BzmH73_b33eQ_crgQruM0TyVb2Wr4Ta18GugXb48pd5MovBU8aw/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "photoUrl": "https://tblg.k-img.com/restaurant/images/Rvw/279712/264d2e0aa087237d1c3adf6d6c07622c.jpg",
             "placeId": "ChIJVdLXKzOiWjURuHFeA9xjHPI"
           },
           {
-            "name": "Yayoi-ken Mikawacho",
+            "name": "야요이켄 미카와초 (やよい軒 三川町店)",
             "type": "식당",
             "time": "저녁 옵션2",
             "address": "미카와초",
@@ -121,7 +121,7 @@
               "일식",
               "정식"
             ],
-            "photoUrl": "https://places.googleapis.com/v1/places/ChIJSYMp7g-iWjURzRK19YvqCsk/photos/AWn5SU6_2aVmGogtoQ1dwKd9JH0AufvzRCj-wrANkttmnC3Ia1yQpqNYy1HxRRQhz7XahybhRA2V8AvHK9qf6o5T3K9919EYZKwT1sMUOWFgnnQZKZ07neW8pwezDR38jfPcldexz3dJKdgkDQp5ataEWrmUEhPYSgsoKNR3yrotq9HeAs-l31DTtBB8fSVt5Zg9qvsBOBRRsDz3WgqYEk2C-ego6nodFRhJ2CQ57hy-lhlF8siys7w2pP9AbyaHYG1AyOFCRoJLz_0nInt13FFGiPJAiyj__cCiir1YPAGAViYpo_N-btqDvqpbu4kgw4xdUIVYQCAjpwbaDWvHZD7Eeq0oG6tYmLf8ZJD5d13--vWaU9yl62k9hQxGdhDwPdvDbaOLrMOkw9OMKMV_Hah111cCbcnu9EnFG-SoPz1BZBS34Q/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "photoUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e8/0b/e1/20171008-193645-largejpg.jpg?w=2000&h=-1&s=1",
             "placeId": "ChIJSYMp7g-iWjURzRK19YvqCsk"
           }
         ]
