@@ -17,9 +17,17 @@
             "address": "히로시마 파르코",
             "description": "대관산의 유명 캔디 스토어. 귀여운 사탕과 디저트를 구경할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/6EKgM4JsHqJPkVbi8?g_st=ipc",
-            "coordinates": { "lat": 34.39212, "lng": 132.46265 },
-            "tags": ["쇼핑", "디저트"],
-            "referenceUrl": "https://www.setouchi-sanpo.com/articles/80470/"
+            "coordinates": {
+              "lat": 34.39212,
+              "lng": 132.46265
+            },
+            "tags": [
+              "쇼핑",
+              "디저트"
+            ],
+            "referenceUrl": "https://www.setouchi-sanpo.com/articles/80470/",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJnV_jlr-jWjURr9NZwaLjpbo/photos/AWn5SU5-a6VxbOLmhfDc2iuegBuIjtrRLlB6Pf45P0ItHLwgZtGkhYFQmZAp3D1YJYvXROmsmsdglm2eGJq6aU0DlWwjY0XGCkIkDl3sKp037ZmWhvAKmcdtpBh7Wiv3N0xKBvRAJf_gdDnxLj-yMYzMKppOcAyPOG9xSGnFEGzKU8H4bMU2aGCGu-c0Br7SLT131JVLdXFxphEpiS-x4wxsQ-iJVcquWNeLV-d86mLN47lVEjMauA4UfVxY3wWSSEkF1P9Pp5KRcUXWNP205hvbGkuEHWKT-kkR8IcDvoXX-pRWFNDIawlDP2Fqk5BdyPQhiYYgsW2eig3CS9laMDRLRCSPRUH-wWO3FG0QvtsaKBO_BM1Gyb6Fw2-4Rb0BixO2u6K75a4DHSjbmgnjMCXMmk0kGkEQ1lx4jZouTB9hogzF9AzD/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJnV_jlr-jWjURr9NZwaLjpbo"
           },
           {
             "name": "KIRO Hiroshima by THE SHARE HOTELS",
@@ -28,9 +36,17 @@
             "address": "히로시마 시내",
             "description": "히로시마 중심부에 위치한 모던한 호텔. 편리한 접근성과 세련된 디자인이 특징입니다.",
             "mapUrl": "https://maps.app.goo.gl/bTTJDMfWKnk47JzA9?g_st=ipc",
-            "coordinates": { "lat": 34.390705, "lng": 132.4618235 },
-            "tags": ["숙소", "호텔"],
-            "referenceUrl": "https://www.tripadvisor.com/Hotel_Review-g298561-d17731903-Reviews-KIRO_Hiroshima_by_THE_SHARE_HOTELS-Hiroshima_Hiroshima_Prefecture_Chugoku.html"
+            "coordinates": {
+              "lat": 34.390705,
+              "lng": 132.4618235
+            },
+            "tags": [
+              "숙소",
+              "호텔"
+            ],
+            "referenceUrl": "https://www.tripadvisor.com/Hotel_Review-g298561-d17731903-Reviews-KIRO_Hiroshima_by_THE_SHARE_HOTELS-Hiroshima_Hiroshima_Prefecture_Chugoku.html",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJo2EDnSyjWjUR8zpbgXJ_oKA/photos/AWn5SU63p2Ummag8i-R8uvxBL3oe7g6hcM9MBsvvsqfrL_3l_NVhiCJqcs5e5l5qQ9Jgw1mbcpGIJIRn0hp-lE4BcKMs5MdseBBFdY10I1wbIZY-j3_vcbV1xrPvTGcr86YpnSv9C4jEg-d0lHuAtsj0ceEu1pW0C4hZ2fAQiKfVlDn2HECwgcqoT4_3qDxjTW42E0qgpf0F1u6O5G-FCiAKrQb-4wX2rOInZUQH1GdQs4dLUgqD88l5QyS758_4wcyIhCPYJ0os2v1j5aOpZ6CxN7J8JtJWDKZoaAAv-xlTuLnktA/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJo2EDnSyjWjUR8zpbgXJ_oKA"
           },
           {
             "name": "Caffè Ponte",
@@ -39,9 +55,18 @@
             "address": "히로시마 시내",
             "description": "이탈리안 스타일의 카페. 파스타와 커피가 맛있는 곳입니다.",
             "mapUrl": "https://maps.app.goo.gl/gNY6ExRzNa51ewD38?g_st=ipc",
-            "coordinates": { "lat": 34.394, "lng": 132.456 },
-            "tags": ["점심", "카페", "이탈리안"],
-            "referenceUrl": "http://www.caffeponte.com/"
+            "coordinates": {
+              "lat": 34.394,
+              "lng": 132.456
+            },
+            "tags": [
+              "점심",
+              "카페",
+              "이탈리안"
+            ],
+            "referenceUrl": "http://www.caffeponte.com/",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJAz10Fw2iWjUR1QVAzyoberA/photos/AWn5SU4FcDiM1Xd_2BNi969Dx44X7V0pjqSz8MrnTO6op2nr-E724gTJz-GXexjg7r6TXZe2aFxtSIjduNNzI0qOaH99J4DE7CJKLEOe75x0hvlobRD8ZiwgZAUWRt4gP4jNklgULdp6DKD6hHvqLJZR2A1jAFCKUVuZYFjzWQU0w5a8mXqN4PdLOG04S19pcuNoB922JaYdeNAlzu2yg5bRpeyWBV2Hx_Zz2pscIJ-H1VjZEs422nflpWt18nUSZgwZhZ7OKV25l_1fpraJfTlGr-qvLUM_oVXlu6DK-mH3qw67pA-veuPmiyyS82xvuE7aFEkPwuXSqXSGInKm8M8QvCxGIfm5HprN3n9H2UY4pwxCGlSRYHFLTDkPPsC3p1v5TvbS2EVDVh4Lz75cA0owwQbkAZSnoWcjlljgLZ7ZuvVJLNiJ/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJAz10Fw2iWjUR1QVAzyoberA"
           },
           {
             "name": "ALOFT 大手町店",
@@ -50,8 +75,16 @@
             "address": "오테마치",
             "description": "세련된 분위기의 카페. 커피와 디저트를 즐기기 좋습니다.",
             "mapUrl": "https://maps.app.goo.gl/isGaMRKt7jcGo33m7?g_st=ipc",
-            "coordinates": { "lat": 34.396, "lng": 132.453 },
-            "tags": ["카페", "디저트"]
+            "coordinates": {
+              "lat": 34.396,
+              "lng": 132.453
+            },
+            "tags": [
+              "카페",
+              "디저트"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJPaL4vD2jWjURPCl2In7WNC8/photos/AWn5SU7Ru8aAAyGLkjf1MLxaUOP_qCnER0_vf7S_WIKSN8RyJ8E0CCZZuq-o0v1YE7rSQyfN3WMy99H4XcRpleoG4XVryXO6GLGGxlBDetbnjulSTzfcETjbXuxWYEnAIfMg-23wVnf39M5TDzilO3soRj2YyTandPFHuNaD1iKixnXGUGexY7zxIUtOj8pCrQ9b-Ia1k5JbdiPRWORYWSCKbMjxKY1tOa0-99E14neXU3iv2_5Z9XZrWatKxg7iNEbIyPBqOnMD2eVk9UEy7JTdBx8vBuO8RTtY5npQAb5qef7za9A6zvaN4uHMpd8akit7eTLPscOBoocz-nznhFInazRf3tzxq9wnJdLpZzuDySszAyX7zxlCpUVQVcefZANieTBjpSgEp1IT0EPy1igrN5e9XtSaTYPSY4sGmBrPpt0_Hg/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJPaL4vD2jWjURPCl2In7WNC8"
           },
           {
             "name": "Marugame Seimen",
@@ -60,8 +93,17 @@
             "address": "히로시마 시내",
             "description": "일본 전역에서 유명한 우동 체인. 신선하게 만든 우동을 저렴하게 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/L4yUJNgHCyXhm9Xt7?g_st=ipc",
-            "coordinates": { "lat": 34.392, "lng": 132.459 },
-            "tags": ["저녁", "우동", "일식"]
+            "coordinates": {
+              "lat": 34.392,
+              "lng": 132.459
+            },
+            "tags": [
+              "저녁",
+              "우동",
+              "일식"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJVdLXKzOiWjURuHFeA9xjHPI/photos/AWn5SU6xq-7a4vQYZbyu6xCc18gYmjIlcRA61JSBJrNCLFCPF4Or6lsq5SWpCLCie1J-OmAkdENgArqAk2Q6ecCHSa4mfqjZqLX1qwBnIuuAjNwm4m1zdhp_vYyFx7RtkYOanGpHezq1vFoiI7h-dgASDfpHQnbgG_8lvK-tm7bBI3HJJh50g0Rhb1E3jBpukMAJXuWaqTCHXGCx4kNCFqfG5180BYp6Yn-F7-AHwhUNUlsJ1EaX1NzGD-XN2R0dgjVXdiXND7CQqfDu0vwzTwEePf2vFXfG3UBmQQU6a5NbzcLK0Bs45723qGwm7-aogYAIyPhn1FlQQWvfU942zXvH1xpyNqRTgjwXy6kG1Ox1C-FJMbU8JRNZc4Fb2o-BzmH73_b33eQ_crgQruM0TyVb2Wr4Ta18GugXb48pd5MovBU8aw/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJVdLXKzOiWjURuHFeA9xjHPI"
           },
           {
             "name": "Yayoi-ken Mikawacho",
@@ -70,8 +112,17 @@
             "address": "미카와초",
             "description": "일본식 정식을 제공하는 레스토랑. 다양한 반찬과 함께 균형잡힌 식사를 할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/4J6xoaxaUYn2YJfx6?g_st=ipc",
-            "coordinates": { "lat": 34.391, "lng": 132.462 },
-            "tags": ["저녁", "일식", "정식"]
+            "coordinates": {
+              "lat": 34.391,
+              "lng": 132.462
+            },
+            "tags": [
+              "저녁",
+              "일식",
+              "정식"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJSYMp7g-iWjURzRK19YvqCsk/photos/AWn5SU6_2aVmGogtoQ1dwKd9JH0AufvzRCj-wrANkttmnC3Ia1yQpqNYy1HxRRQhz7XahybhRA2V8AvHK9qf6o5T3K9919EYZKwT1sMUOWFgnnQZKZ07neW8pwezDR38jfPcldexz3dJKdgkDQp5ataEWrmUEhPYSgsoKNR3yrotq9HeAs-l31DTtBB8fSVt5Zg9qvsBOBRRsDz3WgqYEk2C-ego6nodFRhJ2CQ57hy-lhlF8siys7w2pP9AbyaHYG1AyOFCRoJLz_0nInt13FFGiPJAiyj__cCiir1YPAGAViYpo_N-btqDvqpbu4kgw4xdUIVYQCAjpwbaDWvHZD7Eeq0oG6tYmLf8ZJD5d13--vWaU9yl62k9hQxGdhDwPdvDbaOLrMOkw9OMKMV_Hah111cCbcnu9EnFG-SoPz1BZBS34Q/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJSYMp7g-iWjURzRK19YvqCsk"
           }
         ]
       },
@@ -89,9 +140,18 @@
             "address": "히로시마 시내",
             "description": "히로시마의 인기 로스터리 카페. 직접 로스팅한 신선한 커피와 브런치를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/fFxBwAP9rga6WMz1A?g_st=ipc",
-            "coordinates": { "lat": 34.395, "lng": 132.460 },
-            "tags": ["아침", "카페", "로스터리"],
-            "referenceUrl": "https://tabelog.com/en/hiroshima/A3401/A340102/34018238/"
+            "coordinates": {
+              "lat": 34.395,
+              "lng": 132.46
+            },
+            "tags": [
+              "아침",
+              "카페",
+              "로스터리"
+            ],
+            "referenceUrl": "https://tabelog.com/en/hiroshima/A3401/A340102/34018238/",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJidb6LdGjWjURN-ar9ZpXGfY/photos/AWn5SU5r1ogn8ybjbPRUMJ3ndB7wgaQfxWANrFET-oti-K2NsZ6N-fUYAMRRX6BRyxk2j05x9xhlu35dM8pFSOkHp9rHotr9vOes0Lz85iQPu3-cPDGGp7zJm59jyi60yfo6w-hV4Oig56yUaLlKs5Y63MDcHuZUNIzQX-lIjiNKIANyRSp7Bvrd-b0JdnLvcq66vpurmglaP95tfNKAmaq7V_KCpSQHOKW7hFgATLrm2nZEccasIKlqUgR8oa-rf-_AUi8qxv3WTxMjTBtJcV7315f9NzGUqXspcIxaL32xaxOrmg/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJidb6LdGjWjURN-ar9ZpXGfY"
           },
           {
             "name": "가스토",
@@ -100,8 +160,16 @@
             "address": "히로시마 시내",
             "description": "일본 패밀리 레스토랑 체인. 다양한 양식과 일식 메뉴를 합리적인 가격에 제공합니다.",
             "mapUrl": "https://maps.app.goo.gl/4mpoQkSmGCkDH96C6?g_st=ipc",
-            "coordinates": { "lat": 34.390, "lng": 132.465 },
-            "tags": ["점심", "패밀리레스토랑"]
+            "coordinates": {
+              "lat": 34.39,
+              "lng": 132.465
+            },
+            "tags": [
+              "점심",
+              "패밀리레스토랑"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJN8Seiw6iWjURnBcc9F4l4LU/photos/AWn5SU5u9_-6QHUyOPijmEcaMWAjBuOImeAVK6DNOFuiXn4HLAQMPpAzlCroHN0sDPUT-Jl5PgnhnMheknuOYB0wDfbBnxq98Fv6W5lzRvM2zfGKHW1H7rbnH8rcOIFRidwbfg4O3Faqw9fHl790EQ2TJr5iKZRUb3kkaYEuvtkEIWGuuFP4uKZ65CqPQ_9572ETJo1_0BHTd7rTJsTrUgMeKL4klqTiqHTsG-yhA6FcY-00vvoguA0PSNbyfOghZzeyjG8rgSl5RoqB_k7gRBslF6OGPp2VgaONT2MEArW18C4msnv4JQUnTceFFUHVwzEfTsQq5RJRXVAwmnnwmFM6iLln5gcuth_7H6GDvbTsW2o8U73GBKwPq2w24FpM_yRXGq4NjAulRXcrqFcn4qDWJKfj_npIq72eBAWqHPh80Zqz7ak/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJN8Seiw6iWjURnBcc9F4l4LU"
           },
           {
             "name": "갓파스시 히로시마 야가점",
@@ -110,9 +178,18 @@
             "address": "히로시마 야가",
             "description": "회전초밥 체인점. 신선한 초밥을 합리적인 가격에 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/XyDzZCeZViEPMBWm8?g_st=ipc",
-            "coordinates": { "lat": 34.380, "lng": 132.505 },
-            "tags": ["점심", "초밥", "회전초밥"],
-            "referenceUrl": "https://blog.naver.com/dkfjal1004/223508120020"
+            "coordinates": {
+              "lat": 34.38,
+              "lng": 132.505
+            },
+            "tags": [
+              "점심",
+              "초밥",
+              "회전초밥"
+            ],
+            "referenceUrl": "https://blog.naver.com/dkfjal1004/223508120020",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJk-yss2ifWjUR0ZAW2h8vr9k/photos/AWn5SU4nmAnyKdpFeJSIhvahJf48jbRDZulahVaXpShihzO-va0H1-q56y-vpuI8-tWBfb3k52mVHRl7jwmbkBPjTid15mJZJO7SjiQhYj3I_QBzKSnvmOIYwp8X34O6klRL4YEIiyHLTRXoGr0BCnXPpUkgAdQmU612KAfCbntb8Z9cTl47Grakwf64KVF55NK__2r5PQC24nINfSOIBo7wN2wsfu7ebA7MOxHQRd-jNWH9crwlP5KRsoKQ-inasUq1rf5RYAgfuR4FmYLtDyhqXkehmretZP_6KLUtgjLqyuOrQlo0FztzLySbIglh5dPCLidGNrTLL_aNhWM0vhQ56Yyv6LdtxZT8gKwbEfKnOSsi1bv22c2-QUcXON9L17Nj3txnls-OAMbLuCRYdKZligaIjKEjTXJrSgaUIpKPoaoMU4eYlOa8m5qBVV5g2f2N/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJk-yss2ifWjUR0ZAW2h8vr9k"
           },
           {
             "name": "이온몰 히로시마 후츄",
@@ -121,9 +198,17 @@
             "address": "히로시마 후츄",
             "description": "히로시마 최대 규모의 쇼핑몰. 패션, 잡화, 식당 등 다양한 매장이 입점해 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/ZtvSEdwNZZexcGD79?g_st=ipc",
-            "coordinates": { "lat": 34.394434, "lng": 132.499444 },
-            "tags": ["쇼핑", "쇼핑몰"],
-            "referenceUrl": "https://blog.naver.com/xksl94/223346401032"
+            "coordinates": {
+              "lat": 34.394434,
+              "lng": 132.499444
+            },
+            "tags": [
+              "쇼핑",
+              "쇼핑몰"
+            ],
+            "referenceUrl": "https://blog.naver.com/xksl94/223346401032",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJf6pRZ26fWjURcQb8ZmQrYCI/photos/AWn5SU6510Mv4vH6DCkOSOpZcb8o1BIcG7cxI4_IpiMTqQmzwCasyBfW5WqPBI0wc4f7oTuLfnBwg5QohcGmAzsAB5-EPmp-XGb5mXuMThyvmj-XsfweWHkQWLXxYSZNm3WFmhXzdPt6LLl_7WCntDzAdezUpFHSFeU3bTT3qQX8WDYipKyRbM2QEmC-AXcSBS57dRzh9e1AfeYEkGlZ9HYx3NMfuJhlSjxusQvH3t7BL9o92vXBvhf8X9e6g9rxgppbCS_OiUyQFlq57hwaz2koouV4bvfkZn0XgZH5UCKnrMIRmA/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJf6pRZ26fWjURcQb8ZmQrYCI"
           },
           {
             "name": "마이도 오오키니 (Maidookini Hiroshimafukuromachi Shokudoten)",
@@ -132,9 +217,18 @@
             "address": "히로시마 후쿠로마치",
             "description": "일본 가정식 뷔페 스타일 식당. 다양한 일본 가정식 요리를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/Xp5CP2ACYDzQaLs38?g_st=ipc",
-            "coordinates": { "lat": 34.394, "lng": 132.461 },
-            "tags": ["저녁", "일식", "뷔페"],
-            "referenceUrl": "https://blog.naver.com/writeun032/224000412570"
+            "coordinates": {
+              "lat": 34.394,
+              "lng": 132.461
+            },
+            "tags": [
+              "저녁",
+              "일식",
+              "뷔페"
+            ],
+            "referenceUrl": "https://blog.naver.com/writeun032/224000412570",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJI4A-YQ6iWjURQK7gnkqEg5k/photos/AWn5SU4OHJpS4e36gmQix3sCFyznYuCyqB5yD9o9zSU_Eqbbc9OKB2ed8li-69BQNXtgP4Hhw8KnlWz_TCKA8jgIZr2xyc7Y7lfSyVlu-CDll0rf2_PuUDjUxarJ_twQBdHG3CuVPffBKcWfPYH7mgOKUyXxbVkMx_2WfLT11bHrmiGIrvEWsWLfypO6iyPpwTu6Va2qK_cLzVltgvNmIQX6XVwMbcaZDOcdqI-cjMPJai5JKQRPlsR92DMuY6EBHRGXY6HftUgdzft4BKM64EickqsZdtGLKuDXqQBNDArb2HXdQPExxFt3tOrdKZrGa3ILkZar_-ppioD93O9XWmBXgMxvqUT0no7KFrJDiOr46w_CHOZHfK9wTOVez2BorCdSkF7FaZNMecpSjO3KI2KHt1VdytvNcAev6DX8l0FeKiWZYBOL/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJI4A-YQ6iWjURQK7gnkqEg5k"
           },
           {
             "name": "미짱 (Micchan) - 후쿠야점",
@@ -143,9 +237,19 @@
             "address": "후쿠야 백화점 지하 (6-26 Ebisucho, Naka Ward)",
             "description": "1950년에 창업한 히로시마 오코노미야키의 원조 맛집. 히로시마 시내 중심부 후쿠야 백화점 지하에 위치하며, 소바/우동 면, 오징어, 모찌, 베이컨이 들어간 스페셜 오코노미야키가 인기입니다.",
             "mapUrl": "https://maps.app.goo.gl/Xijj19cMjWhUjhsK7?g_st=ipc",
-            "coordinates": { "lat": 34.388, "lng": 132.460 },
-            "tags": ["저녁", "오코노미야키", "일식", "현지맛집"],
-            "referenceUrl": "https://en.japantravel.com/hiroshima/micchan-okonomiyaki/1216"
+            "coordinates": {
+              "lat": 34.388,
+              "lng": 132.46
+            },
+            "tags": [
+              "저녁",
+              "오코노미야키",
+              "일식",
+              "현지맛집"
+            ],
+            "referenceUrl": "https://en.japantravel.com/hiroshima/micchan-okonomiyaki/1216",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJbajzqgiiWjUR2BmSDNohrqk/photos/AWn5SU50xBjNXlkuEyb_DfDqhzG9t-ZEq9J8yn2JUvGH4nNwGknjFZxLIcVHpmDt4I82L98Bg2UjdRHPLFjoenPVXCsthAlaHM_LfI9vxWgoJPE4HQv3vf7F21k-XxtpAH-bPSbpsKklfIroQBDtu4uKGBbsoFnBOyk85MrNi1ATCRNYGdKCGQ8MqaNroOfObC2UaKD_MQJL2zTQf5pnLAsiBgxdn9luwEsECCYnlFgSW8y1JNVswXpurH6xSVT0htpL5jvxpmQyv-T1uytye6S8yHWSHgQmftEYkiLH8bAfansw8C3kjLyJvgcPvEiGU-ozjqyurnnoo7SDTYlljfoG1B3gQ1FZDvCoDUn5sVul_6c7Levd9Lcp_dtMJrhdOg2_q2Dye880E2HGEnyV5dZVNlPpBl5Ahw4MB2q8OCna1Sj127I/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJbajzqgiiWjUR2BmSDNohrqk"
           }
         ]
       },
@@ -163,8 +267,17 @@
             "address": "히로시마 시내",
             "description": "덴마크 스타일의 베이커리 카페. 신선한 빵과 페이스트리로 유명합니다.",
             "mapUrl": "https://maps.app.goo.gl/uDzrwCJUPP6ezyor9?g_st=ipc",
-            "coordinates": { "lat": 34.393042, "lng": 132.458408 },
-            "tags": ["아침", "베이커리", "카페"]
+            "coordinates": {
+              "lat": 34.393042,
+              "lng": 132.458408
+            },
+            "tags": [
+              "아침",
+              "베이커리",
+              "카페"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJVSxoiA6iWjUR7PT-M3z4oQA/photos/AWn5SU66s3fbQ6U9rMPVapunfBtXzYiTS0MyFxJFFV0qthbIWWAFk2ILY3oPMKWoOKlANXIDw9tuSyLH680bsXxhXTXZKXInHPtsllqpO92byp-m12B5DRrEnoM5B-qEfOWvq6-az3gdgW0bba3aSuZ2SJTBJ6uhz6SIUhs_Z_q5aQ59fefhLv9z4FFg1hqOxS_Chd91dNTP2k0iIZUh7qunrFI2W7Mah3-gUaa9NCYBDHdWHjhdtQGnMAkYujYlYmLdnyByrmpDb_q4Gi_DhH-0-9DI71uF_Tfumo_kpDtiFedpLw/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJVSxoiA6iWjUR7PT-M3z4oQA"
           },
           {
             "name": "이쓰쿠시마 신사",
@@ -173,9 +286,18 @@
             "address": "미야지마",
             "description": "유네스코 세계문화유산. 바다 위에 떠 있는 듯한 붉은 도리이가 유명한 일본 3대 신사 중 하나입니다.",
             "mapUrl": "https://maps.app.goo.gl/BhqXNczUHjp3eR4c9?g_st=ipc",
-            "coordinates": { "lat": 34.295833, "lng": 132.319722 },
-            "tags": ["관광", "신사", "세계문화유산"],
-            "referenceUrl": "https://matcha-jp.com/ko/1573"
+            "coordinates": {
+              "lat": 34.295833,
+              "lng": 132.319722
+            },
+            "tags": [
+              "관광",
+              "신사",
+              "세계문화유산"
+            ],
+            "referenceUrl": "https://matcha-jp.com/ko/1573",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJj23HfgTjGmARkNW10PcocjU/photos/AWn5SU65dV0tPFA5r6ew90Ds-dxggFqeOuLbdMI6n05au9tcE6tKQj7KWErliq_Ltz8ZeYPhU93nrAUsXyO_HWEqhF9FGWApd1NjjJvhiS5wGmbJKEOoNTH02s1Qk71cirtMeDftTK3Biv5iSMW69tlA98PTVkQGHOIyb8SIPb_2hctlwWwW8h4G5RVHqIPJt1etAFfxGiEqP-e2z5_1gG0BuhjA_1SveUIAgh2blB0dhrxAKlM4JaVnAnw70v7ucW3s0TMzAH_DGPXg1I2lSVzZY4JPMC3coIrqx6UYvd_p96-CkxllxU2IuTUGGc3V2G9vvD0HGjs1i9mQRmPDXSncxTX5BWaxoZjSE5E4DS42pk7ucNDBpiuy-hfwykusjkOQ7ILVBlQLWCSJl_we7KcMHzMK9sT8sIa7NP5-4G5cWYC_wbv2/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJj23HfgTjGmARkNW10PcocjU"
           },
           {
             "name": "tuGiico (ツギイコ)",
@@ -184,9 +306,18 @@
             "address": "미야지마구치",
             "description": "신선한 현지산 굴을 직접 구워먹는 오이스터 바. 페리 터미널에서 도보 8분. 생굴부터 다양한 조리법의 굴 요리를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/GnmsjZcuHCqPt9jV9",
-            "coordinates": { "lat": 34.2977905, "lng": 132.3213254 },
-            "tags": ["식당", "굴요리", "오이스터바"],
-            "referenceUrl": "https://tabelog.com/en/hiroshima/A3402/A340202/34029229/"
+            "coordinates": {
+              "lat": 34.2977905,
+              "lng": 132.3213254
+            },
+            "tags": [
+              "식당",
+              "굴요리",
+              "오이스터바"
+            ],
+            "referenceUrl": "https://tabelog.com/en/hiroshima/A3402/A340202/34029229/",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJqct-5j2xWjUR0JIk9VsHm9U/photos/AWn5SU4u6m2MjNvw9vfnE9avaE5EP3c6BQ95DKazaD1veRN2dL6dnuBFdAidmYLIPuqaPFy2ww8nps0qY3uDp6r7iQPz1LNN2ntX7TKnuqbynMwEcafuEKTE461x0mjX8IvfASNJHCReiVYpcbqtWNlUOW6JIHYhI6rASu_khRnnJoBFLhSbssV4w-3xtkkktqzRwD7mswzbmSq7KPIL5zy0iZGR6XJUZzYEsAnOCTIvzuIQyKVmo0GAjsl9sBzQ6DOZ_d3uG0CMVlXEXdR9iRNus5S7IM8f-OATS6gQepBSuVBN8bm-7NtjmwgjrKfSgoKSAucqd_pXFw3eyUv8GvjtZNNOgMLQUJgDpttc3OS-kRLa2oNPQCikU3KWHNG6a_BUSafUkhAk3whM9XqBHtmJyd68zCvjhusfYiVSt6TQRkY/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJqct-5j2xWjUR0JIk9VsHm9U"
           },
           {
             "name": "다이쇼인(대성원)",
@@ -195,9 +326,18 @@
             "address": "미야지마",
             "description": "미야지마에서 가장 역사 깊은 사원. 아름다운 정원과 500개의 나한상으로 유명합니다.",
             "mapUrl": "https://maps.app.goo.gl/SiRGCAS5hsnSbMar9?g_st=ipc",
-            "coordinates": { "lat": 34.292430, "lng": 132.318518 },
-            "tags": ["관광", "사원", "정원"],
-            "referenceUrl": "https://matcha-jp.com/ko/2612"
+            "coordinates": {
+              "lat": 34.29243,
+              "lng": 132.318518
+            },
+            "tags": [
+              "관광",
+              "사원",
+              "정원"
+            ],
+            "referenceUrl": "https://matcha-jp.com/ko/2612",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJCcnfu8uwWjURP_wHx2YZPro/photos/AWn5SU5Tzn58XcfjCQouqR3MeSy428V1kj1sADOlX2GUl59gT02xFeGJsngufpHWDWo5PDQ9B6Pfi4ewr7n72NEXvC99vBj-4MtKSpK7Hq2HWQQ5x5zcez6Z6hY1Ibgozt77hU3NmQlJ4AHNJ_7hwowjOrgfWgQHsUdeU5OGlt1nUP62uUEneB1gakh-_Hnexp8YhxOSahySng39DdimeKbZcRNNW9xRE7mDtjj8Tfrji7CDQNCm41z2gTm7gIBUOOtPZuHa0Pz0nCrD2MsXBK92OjFvWNhImkwHV_Zeqvi19QowiVh3Mw2B0UAX-Imce0veXXc7LGPVeO_jpg2FGuPP2cVvdrE9bDgMEFxDiTX0b3yC9FPuf1t8K9nda-SwfrCK39iJMDZlEfSUD1CqnFMK3byzuuqY7kN7IQvsoAUS4oI/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJCcnfu8uwWjURP_wHx2YZPro"
           },
           {
             "name": "水羽荘（レストラン）",
@@ -206,8 +346,17 @@
             "address": "미야지마",
             "description": "장어덮밥, 돈가스 등을 먹을 수 있는 수족관 앞 식당입니다.",
             "mapUrl": "https://maps.app.goo.gl/sXPzD1fyZEeow6rd9?g_st=ipc",
-            "coordinates": { "lat": 34.297, "lng": 132.318 },
-            "tags": ["점심", "일식", "현지맛집"]
+            "coordinates": {
+              "lat": 34.297,
+              "lng": 132.318
+            },
+            "tags": [
+              "점심",
+              "일식",
+              "현지맛집"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJ74gOSQCxWjURS7UWv8x6fwo/photos/AWn5SU5iY90zLQn4jh1GQi9NlNTYNE38OLITT24rWZyAMVDouBQt8wypK8yiZnWfMH7gMYV7W5RaEwKXm0EA_1UL3Btndym0gYG6iXIeGnnmeBVQ3FDM-t_7Js_WWtVa5p2sYSQGpNH1K45aDfajT-T6cqJ0jqbMKsjwk1E9LMDaWAYoQQbJTXviXwzWnyJMu1tkmV1tER-JBxhV5hralYvc6yFMYgmyqGdMNfoJ1hzk2rtcofP9dzDnpbJeQjPOHyUrhZgZaCuqr1U9Yssfx-d0GovsEgXXWWhv2W4wSip2wzdb3r96AVMvtKWW1t1ZLYh7kdUNIAObtGayJPsYsEd_k40pWuyAmUn0JOpVjiKuZ9vkBX5oXwv9bNsXnosXcT8gsnYfQYeT7cVz494q-lctKj_TF4wU5YMQm3YXD-ObH8-BJHk/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJ74gOSQCxWjURS7UWv8x6fwo"
           },
           {
             "name": "미야지마 수족관",
@@ -216,9 +365,18 @@
             "address": "미야지마",
             "description": "10000여종 이상의 해양생물을 관람할 수 있는 수족관. 해양 생물을 직접 만져볼 수 있는 이벤트 등 다양한 볼거리가 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/bWktVCqc3ugQ2VH8A?g_st=ipc",
-            "coordinates": { "lat": 34.2954, "lng": 132.3154 },
-            "tags": ["관광", "수족관", "가족"],
-            "referenceUrl": "https://ikidane-nippon.com/ko/spots/miyajima-public-aquarium-miyajimarine"
+            "coordinates": {
+              "lat": 34.2954,
+              "lng": 132.3154
+            },
+            "tags": [
+              "관광",
+              "수족관",
+              "가족"
+            ],
+            "referenceUrl": "https://ikidane-nippon.com/ko/spots/miyajima-public-aquarium-miyajimarine",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJpbpftsqwWjURD6UNc1rni0A/photos/AWn5SU4FE1EFeFCmmee8ElFoYUXRtfeIcXaTophwl3-Mtlc9ikKIS0czmWE3NHJLrwXOO17HkjzqcSViLq_msDYXhSq2zLT-3KdSNmbgPcKukK187puiYC3mh5ingqReEuEqVe0LFsumEOxhXA4hAu300oVNkEAcQGczZO2wzjwX83JJW4tKq-R1PB1prBSI1NrmxdBElfpxLGVHMfzzWGHLQmUHldQtaQrLDc3_UJTDs2Y_LOMlL45pjXxdawujf8bzf4H_NlZ38_52lkZgYpsCCCXNGUiwBluaFrVndhjfR-jcOg/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJpbpftsqwWjURD6UNc1rni0A"
           },
           {
             "name": "텐신카쿠(天心閣)",
@@ -227,9 +385,18 @@
             "address": "미야지마",
             "description": "언덕 위 숨은 카페. 오층탑과 센죠카쿠, 바다 전망이 멋지며 자가 로스팅 커피를 즐길 수 있습니다. 입장료 550엔.",
             "mapUrl": "https://www.google.com/maps/place/%ED%85%90%EC%8B%A0%EC%B9%B4%EC%BF%A0/@34.2964897,132.3214503,17z",
-            "coordinates": { "lat": 34.2964897, "lng": 132.3214503 },
-            "tags": ["카페", "전망", "커피"],
-            "referenceUrl": "https://tabelog.com/en/hiroshima/A3402/A340202/34020635/"
+            "coordinates": {
+              "lat": 34.2964897,
+              "lng": 132.3214503
+            },
+            "tags": [
+              "카페",
+              "전망",
+              "커피"
+            ],
+            "referenceUrl": "https://tabelog.com/en/hiroshima/A3402/A340202/34020635/",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJZVb_krawWjURKn7rSPn-Zd8/photos/AWn5SU5czksTkt-Tcm5NUEijGl75BEiWeUAqPhd1c8rxpKGSKFTKOB9Hnmglrgb4oLIqZlqTG_Tr2HJynUGYLOalvSGU1sQa_6D7IurdqFruXEPldWLUkqZ1QFkEvLRWkHykWdDIQhn5QUQSY1h2Ol1TGwcQTl_hCgmQQW_phzAN_VPs1aU6UGgenChKvulDEAdqEWIWXkVUPYceFaxtdex7mEel5SKXd7DhaS7YWKMG5ex9k7Gm6dj6qiOo4tE0LMHrewteNs1lMDQ5k43AUGspULHMtL5Umu4KPyJa7Xh7nW04UkUOY4bjb-w8Kg9c-yYBeRwYUKLFwWUNur1Jyk5T36PpoFSmGO14AXzvbyDP3zdn31qSY0CuuwAeLLCiY1MPrhbwQq3ym327dTLFpvX4kyBoQ1nypV6Pgwb5k6QAI2_f8Q/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJZVb_krawWjURKn7rSPn-Zd8"
           },
           {
             "name": "KAKIWAI (牡蠣祝)",
@@ -238,9 +405,18 @@
             "address": "미야지마",
             "description": "100년 된 마을 집을 개조한 언덕 위 카페. 오층탑과 바다를 조망하며 신선한 굴 요리와 60-70종의 음료를 즐길 수 있습니다.",
             "mapUrl": "https://www.google.com/maps/place/KAKIWAI/@34.2970812,132.3216913,17z",
-            "coordinates": { "lat": 34.2970812, "lng": 132.3216913 },
-            "tags": ["카페", "굴요리", "전망"],
-            "referenceUrl": "https://en.japantravel.com/hiroshima/caf%C3%A9-kakiwai/17453"
+            "coordinates": {
+              "lat": 34.2970812,
+              "lng": 132.3216913
+            },
+            "tags": [
+              "카페",
+              "굴요리",
+              "전망"
+            ],
+            "referenceUrl": "https://en.japantravel.com/hiroshima/caf%C3%A9-kakiwai/17453",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJr6AkUJexWjURjZZebcJrNcU/photos/AWn5SU6nGQIDM-4UL7LBNXr0rA6h2sCspys3JSyi39Ui3Sm7QVL4pDeBqiCnCqC-h0jenAcPUXPNJPVq-EygIKa15CbMc-Ps2qeKtWCH-2Mbkn7GiMLGXs1COqjBtjfMndF2aZQ4B_jB2HvzVUH5u5Y0jUWyFvrCcdM-DJnauqB51jBenDLtMGaPYsCAxmVb7pkj-5D_A5ibf8BGiTPzQ7Crqg_fvjJ6lsczAzpXj0jlatmj6pBBIag5RdW7-5Y2ivdXSgAuLEoQmL3TVuyCLkyyuvyqinpUbJ4QmY8fmIqMKrfa2bLym_Xu5infu1W58Wd7SoQ4SyztbsI3WRwguDvIweuc5GmZbEYXpxIlOMvmNmW7QEwPYyArDGUj0V3ZS6T2aY2TKpPHUdFU7G2EwMSktRjT68ZRkNYQZefuxOPl7mOMDBBx/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJr6AkUJexWjURjZZebcJrNcU"
           },
           {
             "name": "쿠라스시 히로시마카미야초점",
@@ -249,8 +425,15 @@
             "address": "히로시마 카미야초",
             "description": "인기 회전초밥 체인. 터치스크린으로 주문하는 편리한 시스템이 특징입니다.",
             "mapUrl": "https://maps.app.goo.gl/ZGhk2VtawqRW3WGs5?g_st=ipc",
-            "coordinates": { "lat": 34.395, "lng": 132.457 },
-            "tags": ["저녁", "초밥", "회전초밥"]
+            "coordinates": {
+              "lat": 34.395,
+              "lng": 132.457
+            },
+            "tags": [
+              "저녁",
+              "초밥",
+              "회전초밥"
+            ]
           }
         ]
       },
@@ -268,8 +451,17 @@
             "address": "에비스초",
             "description": "히로시마의 전통 있는 커피 전문점. 정통 커피와 함께 여유로운 아침을 시작할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/o61eeAWUjARKgGuaA?g_st=ipc",
-            "coordinates": { "lat": 34.388, "lng": 132.460 },
-            "tags": ["아침", "카페", "커피전문점"]
+            "coordinates": {
+              "lat": 34.388,
+              "lng": 132.46
+            },
+            "tags": [
+              "아침",
+              "카페",
+              "커피전문점"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJoULm-wWiWjURMRImVuloEv8/photos/AWn5SU5-7mctj1L8DX4OILDrIxtZnjNHU0Xza-5Jhy4b170guBwfdymHMPK5FMqjd2cFshgfdx9usvUH2hRFhI-slUtzmlOw92BYqAtyv4bDGOUCxUyAfnPb6_oP0t3j3nhSPHbk7IvtCPNcNr0bpjrYJIZPvcGU-N9gZsGcrsW9GaH4mGm8UWCruy90w_ra-tlP6sd2NxsEe4R8bHJPtvMvkQEzug_xdwH9q9OzoOT4QCySmfN1sETkABlJNz7OA4ts8726x1HFD0tADYuPrjwsldrWGb2SO1h-Rw1XnjWEfGdW_A/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJoULm-wWiWjURMRImVuloEv8"
           },
           {
             "name": "슛케이엔",
@@ -278,9 +470,18 @@
             "address": "히로시마 시내",
             "description": "1620년에 조성된 아름다운 일본 정원. 사계절 다른 풍경을 감상할 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/faUTG5HyZas3EtBp7?g_st=ipc",
-            "coordinates": { "lat": 34.399423, "lng": 132.467241 },
-            "tags": ["관광", "정원", "전통"],
-            "referenceUrl": "https://www.outdoornews.co.kr/news/articleView.html?idxno=34453"
+            "coordinates": {
+              "lat": 34.399423,
+              "lng": 132.467241
+            },
+            "tags": [
+              "관광",
+              "정원",
+              "전통"
+            ],
+            "referenceUrl": "https://www.outdoornews.co.kr/news/articleView.html?idxno=34453",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJAfBmWKmYWjUR42FdSpYghNc/photos/AWn5SU5sAIJbyN3HU7XlFad1gBqApuqLexoqA45DscqzWfWtIqFy9ptiRcuDhWBLKJ8nCh46bSD6XwyZHxW4s-24LHObw2x1mKV4027yzGSYmdYLlu0mStsxVSvR5vzcwI0_wZ2guWYduiFQEkM0RJpTi7oLdiLBFjc_v1MNXrTpa9E9QCdkHiDMaPY4pWojz_ey7bfujxhYTxde4WJnHMqUJ2RGdFnZuK4wO_uLXnPLo51OP6TiDSbNRdLwQxu-g2VgjFA8IlrPZzBaB5kKis9CuQ3fGI_fjQevbYLYbFJrMi3vlay9g_Lmu_Hp1tqjcZv9uSCwKRBPraOS0bBCjJaj4zMqdKFtsclfutMGbRHSM8DO-3Nz3Eutq0nO6MQfTebzu73hdo9CGwRm-nquwrvNrJ4V-Eqk3fyFK351HK96z_2ozw/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJAfBmWKmYWjUR42FdSpYghNc"
           },
           {
             "name": "오리즈루 타워",
@@ -289,9 +490,18 @@
             "address": "평화 공원 인근",
             "description": "히로시마 시내를 360도로 조망할 수 있는 전망대. 평화 기념 공원을 내려다볼 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/ZbhM63fXeVAnajEH9?g_st=ipc",
-            "coordinates": { "lat": 34.39569, "lng": 132.45469 },
-            "tags": ["관광", "전망대", "포토스팟"],
-            "referenceUrl": "https://dive-hiroshima.com/kr/explore/2817/"
+            "coordinates": {
+              "lat": 34.39569,
+              "lng": 132.45469
+            },
+            "tags": [
+              "관광",
+              "전망대",
+              "포토스팟"
+            ],
+            "referenceUrl": "https://dive-hiroshima.com/kr/explore/2817/",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJyz9bjQyiWjURHMzhMGEGw8Q/photos/AWn5SU5Cu-spB55K_ouC5FoItBUil5UYO6DD4DQ0qX1ml-2QdS7ShSUDc48AuSIziuyroSjdnPHcYSrrBC_WH1ZvGoH9-yPkXM3afwm1k6Q1wq3gfwsS47qccJmHeH2Fw5PR2u-WxkqSWy6I8SUAf1mYbAGFZf1XMNk7zayDY2Umb36PTcHGEAwkxgmTvtZomatw2mDnQcr2BK4b-1iW_8oRfwMqQ4jUjjDEP_8ym6Fi-WrbpBh5TVsiNtdNtis-Kfm5iBNwMMDCAxpgQAEKCqGx-qH1_AKUKNCSlZa5tdEBH-oi-g/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJyz9bjQyiWjURHMzhMGEGw8Q"
           },
           {
             "name": "5-Days 어린이 문화 과학관",
@@ -300,9 +510,18 @@
             "address": "히로시마 시내",
             "description": "어린이와 가족을 위한 과학 체험 박물관. 다양한 전시와 체험 활동이 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/EgaFNsNAQjt7eFKC6?g_st=ipc",
-            "coordinates": { "lat": 34.405, "lng": 132.455 },
-            "tags": ["관광", "박물관", "체험"],
-            "referenceUrl": "https://blog.naver.com/cutehyun1010/223778379984"
+            "coordinates": {
+              "lat": 34.405,
+              "lng": 132.455
+            },
+            "tags": [
+              "관광",
+              "박물관",
+              "체험"
+            ],
+            "referenceUrl": "https://blog.naver.com/cutehyun1010/223778379984",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJJUrGPguiWjUR13ixgAoXM8g/photos/AWn5SU7kbBfkStvbpTCZmsLOLn6Pf3hA5scpjI7yut9lS3hag8KpvXrL7dqaOMRi6dpIoXMXCEJSASGwF4xjguZhJFFNUoVFDrywfUO2I2-CpeVg1xnc9tNTDe2-hekzOoxIYAfLGdBa8VdShIO7mmG-lY4yV9OBXvQ3srVumuBsfsQYKQ3bS-j3G3b4j1pZ83K8IFh6wlB_6u_NbFXt09lzn3RMtLqNbhS0xocHZOtAXF-clSVGP03ZXQUkp-yPFIitmwJc1iGv7cUQv1Lu8zlJ8Bccxd9kqCirl1oNyE9sJnQJHDOgRnduxJktYjGcpSlTNcx8qzN-HP1AkFj4GTc0_cxzmG4YyD_kxboYXbJLAAMMA-enaGXnnPzMm6aWjMJf7uKHuY8RbC-O1LRqG-Cj-fEoChMVkRs1jJ1bH94v89U/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJJUrGPguiWjUR13ixgAoXM8g"
           },
           {
             "name": "한국/조선인 원폭 희생자 위령비",
@@ -311,9 +530,18 @@
             "address": "평화 공원",
             "description": "원폭으로 희생된 한국인들을 추모하는 위령비. 역사적 의미가 깊은 장소입니다.",
             "mapUrl": "https://maps.app.goo.gl/rZGBLBsjfR512Efw7?g_st=ipc",
-            "coordinates": { "lat": 34.39319, "lng": 132.45475 },
-            "tags": ["관광", "역사", "추모"],
-            "referenceUrl": "https://dive-hiroshima.com/kr/explore/3281/"
+            "coordinates": {
+              "lat": 34.39319,
+              "lng": 132.45475
+            },
+            "tags": [
+              "관광",
+              "역사",
+              "추모"
+            ],
+            "referenceUrl": "https://dive-hiroshima.com/kr/explore/3281/",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJbTBhvHKiWjURAwn5qKedNFs/photos/AWn5SU5c9oB9xMWZ5QII3noVdbfdR_bmxRctr9seo2RVeqJnwGkm3khnC-kDaaB_gqKGfijb_JjBjwycm-bbiriEV2WB7bmTYg58MECmfJgjFl5J4xsvp2ywMqmc66d_s_dgOmBw6kQBZO20axo2V_af2HwyOzghqImMpqfq2npM84o4_d8g3jSBi3cPFezdu_IbT9Th548W8DBRG6EZdEHWxW3EBgaAgX6ccQn4iplUvYihVOdlHuEbnllSYuaI57F5vVd5spZu77o99T__aeuM36MKW8tm-50CiKqOehRGT5AvROxpkcZA7u6TgrhBg9ctZTT-fQ751mScJNnLgh1O05k7RGUJ3q4fZXXuZPqt76XXfPwlPiDJkmqcMzlEdBIxGD4QaiZEb3Io2X3B2GdaR75WJ_vulVfwtvweCP5acm9SPqo/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJbTBhvHKiWjURAwn5qKedNFs"
           },
           {
             "name": "히로시마 안데르센",
@@ -322,8 +550,17 @@
             "address": "히로시마 시내",
             "description": "덴마크 스타일의 베이커리 레스토랑. 저녁 뷔페로 다양한 빵과 요리를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/uDzrwCJUPP6ezyor9?g_st=ipc",
-            "coordinates": { "lat": 34.393042, "lng": 132.458408 },
-            "tags": ["저녁", "뷔페", "베이커리"]
+            "coordinates": {
+              "lat": 34.393042,
+              "lng": 132.458408
+            },
+            "tags": [
+              "저녁",
+              "뷔페",
+              "베이커리"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJVSxoiA6iWjUR7PT-M3z4oQA/photos/AWn5SU6g-bREWvfDUVyOIrw5TbCZ5-R8SKrvlcYBxwfmyQX_oxJBOR6IdsXRSKFSFyCaudond10Mgg9Raa-X4nOxhnW3U3KOA67ilFI3tN2BnQtMzGRc9EeeTYYfMjHJWhNHYU8nBoWsX3rp-pIDBcMn--zyIVHDWAlxGxRRHIc4hId2a9GN4U9O740YxFrFhyUPK0ZxMxhJM6ie8yRp0yZix5uiB87rQHG-rjF0uvCwaOLs6O5Aeem-V4P2xTVp831F6PO0egQzkEoZ9KY1oxe_nINX7R8p42f929sVNeyyRTxchA/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJVSxoiA6iWjUR7PT-M3z4oQA"
           },
           {
             "name": "oyster bar バルタン7 (BALTAN seven)",
@@ -332,9 +569,19 @@
             "address": "히로시마 하쵸보리",
             "description": "호텔 근처의 오이스터 바 & 이탈리안 레스토랑. 히로시마 굴과 세토우치 해산물 요리를 즐길 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/6GgroQRqQ5D8EEyB7",
-            "coordinates": { "lat": 34.3907385, "lng": 132.4613185 },
-            "tags": ["저녁", "굴요리", "오이스터바", "이탈리안"],
-            "referenceUrl": "https://tabelog.com/en/hiroshima/A3401/A340114/34032793/"
+            "coordinates": {
+              "lat": 34.3907385,
+              "lng": 132.4613185
+            },
+            "tags": [
+              "저녁",
+              "굴요리",
+              "오이스터바",
+              "이탈리안"
+            ],
+            "referenceUrl": "https://tabelog.com/en/hiroshima/A3401/A340114/34032793/",
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJs7-TGQCjWjURIIw1tdVqU7o/photos/AWn5SU5VTMwjwKsJVv4OiXMlRjtpv-_ET4a0CRqEyBhcvTxG8Yk0dWNLUaUK5KPwlVZHHBjMjDZSkhrlDlePrY9tV9uDZ5ckW1nhBtVhuBO7zm_rxT9OZWtMi4Y2eoOytRpJz3VrlSFFQeGW-2y0c00xWd0gpUMeXg7XFpWa3Q6UOOKO6fbO07CF7GH--397XcGJesTQ10REmEHj15N2ucCMdjlNwnZehVCJlPF9VhLiAIB6AjOCXIqU0yYcbGq-xuNL0eVSUHO3nGJw0K0BnBXdVrjSDTZ0IHbhbXs3RVdvdpbXOw/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJs7-TGQCjWjURIIw1tdVqU7o"
           }
         ]
       },
@@ -352,8 +599,17 @@
             "address": "히로시마 시내",
             "description": "공항 리무진 버스 탑승을 위해 히로시마 버스센터에 7시 30분까지 도착해야 합니다. 호텔에서 여유있게 출발하세요.",
             "mapUrl": "https://www.h-buscenter.com/en/access/",
-            "coordinates": { "lat": 34.3963, "lng": 132.4567 },
-            "tags": ["교통", "공항버스", "체크아웃"]
+            "coordinates": {
+              "lat": 34.3963,
+              "lng": 132.4567
+            },
+            "tags": [
+              "교통",
+              "공항버스",
+              "체크아웃"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJJ_tx8wuiWjURUll3rEMkjMA/photos/AWn5SU6LpVft0JthNG21RsAhBFn35Pwwi-fAKU71IQPa8GdIs7vZVaTCuGUEGh4v64HNsa1UYwLBTqxK0LS5iwGPm5QntyQiRTgmvyrw35d9PFwFJnOU-NBxO41Rkmb8sIt4RFL2ShaYkHvV6DC7WBV2GSCyMnhqT2pBahjT93NHVwGLRwXy5oto7YjKe1-L9QXSQxptBfeFMGbU9UbbMKv22vfn3VpwmNHy3buT9Ws0Ah-OapP-doWpIgekqU6R43AK2qcWx-okzr54iLjuQZR0d1PuzMU2ei8c_8vAtHRpJFMEPVTH39zZ1bEme48wJRhrBbkTGiAWhTjBHupgrgI16HfHHMn1spJcIONGMB36u2OzFyhbGUSJ5ETYhyrw_d2Iv5XqjeTplS0AJoYBHSsDW9tON1qTcmj-DDwB9-cDsJeXOQ/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJJ_tx8wuiWjURUll3rEMkjMA"
           },
           {
             "name": "히로시마 공항",
@@ -362,8 +618,17 @@
             "address": "미하라시",
             "description": "히로시마 공항에서 오전 10시 30분에 비행기를 타고 한국으로 돌아가는 날입니다. 즐거운 여행이었습니다!",
             "mapUrl": "https://www.hij.airport.jp/ko/",
-            "coordinates": { "lat": 34.436111, "lng": 132.919444 },
-            "tags": ["공항", "출국", "귀국"]
+            "coordinates": {
+              "lat": 34.436111,
+              "lng": 132.919444
+            },
+            "tags": [
+              "공항",
+              "출국",
+              "귀국"
+            ],
+            "photoUrl": "https://places.googleapis.com/v1/places/ChIJAQ-tMGhWUDURlFHlSGpc2p4/photos/AWn5SU7ORB9hsM4eOWMf3qM_UnGV7K4pZZgjkId1ISzoespR4BjtV2ahfqbuK9PMT9aTYq4tjKg24chuxRNvLlkWeEr4nkGaPZju0taJXaQnxpDrMR0SCFstwJYf8TgdhvjYk_jdXfkwocExy9PCr6DPalyc3Zmqx_9ID3_RRCovOZUPaeG8nU1sM53so_lcRfO4pxcTaJpzwsO1iLLP9KpdwpEjDnG_VR0SKYb-eDEc4XfNgd6hkmJqq6AjntlI5i6fes3nLwbly9ew2gNZiEpF63IhC5Qfx12un8ItvtxHQoYQ1AfyFYopTBc8fBchOlmrPjamqxm7yiMoh12tPf0VPQH0Za3uoPhDwKtNmMNADaV95vC2knFWG_FgXFFvbcWgL_DmXiWph_3JViv2tANDlZRPFQY3eMd625rS9Aueq8-HfA/media?maxWidthPx=800&key=AIzaSyCY3k2U84PjqSzzgX8Nw9q6mQtWQ4IW9X4",
+            "placeId": "ChIJAQ-tMGhWUDURlFHlSGpc2p4"
           }
         ]
       }

@@ -107,7 +107,13 @@ function createTimelineItem(place, index) {
             📝 블로그/리뷰 보기
         </a>` : '';
 
+    const photoHtml = place.photoUrl ?
+        `<div class="timeline-photo">
+            <img src="${place.photoUrl}" alt="${place.name}" loading="lazy" onerror="this.style.display='none'">
+        </div>` : '';
+
     item.innerHTML = `
+        ${photoHtml}
         <div class="timeline-header">
             <h3 class="timeline-title">${index + 1}. ${place.name}</h3>
             ${timeHtml}

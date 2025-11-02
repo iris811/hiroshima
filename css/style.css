@@ -216,6 +216,25 @@ body {
     box-shadow: 0 0 0 3px var(--secondary-color);
 }
 
+.timeline-photo {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.timeline-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.timeline-photo img:hover {
+    transform: scale(1.05);
+}
+
 .timeline-header {
     display: flex;
     justify-content: space-between;
