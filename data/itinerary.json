@@ -419,15 +419,15 @@
             "placeId": "ChIJr6AkUJexWjURjZZebcJrNcU"
           },
           {
-            "name": "쿠라스시 히로시마카미야초점",
+            "name": "くら寿司 広島紙屋町店 (쿠라스시 히로시마카미야초점)",
             "type": "식당",
             "time": "저녁",
-            "address": "히로시마 카미야초",
-            "description": "인기 회전초밥 체인. 터치스크린으로 주문하는 편리한 시스템이 특징입니다.",
-            "mapUrl": "https://maps.app.goo.gl/ZGhk2VtawqRW3WGs5?g_st=ipc",
+            "address": "히로시마시 나카구 카미야초 2-3-20 SOCIO SQUARE KAMIYACHO 2F (본통역 도보 1분)",
+            "description": "인기 회전초밥 체인. 터치스크린으로 주문하는 편리한 시스템이 특징입니다. 본통 쇼핑가 2층에 위치하며 1접시 130엔부터 제공합니다.",
+            "mapUrl": "https://maps.app.goo.gl/TaNQFiyKcgAgBpoz8",
             "coordinates": {
-              "lat": 34.395,
-              "lng": 132.457
+              "lat": 34.393664,
+              "lng": 132.4560363
             },
             "tags": [
               "저녁",
