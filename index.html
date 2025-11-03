@@ -25,6 +25,49 @@
         </div>
     </main>
 
+    <!-- Hotel Guide Section -->
+    <section class="hotel-guide-section">
+        <div class="container">
+            <h2 class="section-title">🏨 KIRO THE SHARE HOTELS 주변 안내</h2>
+            <p class="section-description" id="hotelDescription">
+                <!-- 동적으로 로드됩니다 -->
+            </p>
+
+            <div class="faq-container" id="faqContainer">
+                <!-- FAQ 아코디언이 동적으로 생성됩니다 -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Chatbot Section -->
+    <section class="chatbot-section">
+        <div class="container">
+            <button class="chatbot-toggle" id="chatbotToggle">
+                💬 여행 도우미에게 질문하기
+            </button>
+            <div class="chatbot-container" id="chatbotContainer" style="display: none;">
+                <div class="chatbot-header">
+                    <h3>🤖 히로시마 여행 도우미</h3>
+                    <button class="chatbot-close" id="chatbotClose">×</button>
+                </div>
+                <div class="chatbot-messages" id="chatbotMessages">
+                    <div class="message bot-message">
+                        <p>안녕하세요! 히로시마 여행과 호텔 주변에 대해 무엇이든 물어보세요. 😊</p>
+                    </div>
+                </div>
+                <div class="chatbot-input-container">
+                    <input
+                        type="text"
+                        class="chatbot-input"
+                        id="chatbotInput"
+                        placeholder="질문을 입력하세요..."
+                    />
+                    <button class="chatbot-send" id="chatbotSend">전송</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <footer class="footer">
         <div class="container">
             <p>&copy; 2025 히로시마 여행 가이드</p>
@@ -32,5 +75,7 @@
     </footer>
 
     <script src="js/script.js"></script>
+    <script src="js/hotel-guide.js"></script>
+    <script src="js/chatbot.js"></script>
 </body>
 </html>

@@ -119,10 +119,10 @@ function createTimelineItem(place, index) {
             ${timeHtml}
         </div>
         <span class="timeline-type type-${place.type}">${place.type}</span>
-        <p class="timeline-description">${place.description}</p>
         <div class="timeline-tags">
             ${tags}
         </div>
+        <p class="timeline-description">${place.description}</p>
         <div style="display: flex; gap: 10px; margin-top: 10px;">
             ${referenceHtml}
             <a href="${place.mapUrl}" target="_blank" class="timeline-map-link">

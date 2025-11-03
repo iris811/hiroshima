@@ -9,6 +9,9 @@ secrets.js
 
 # Node modules (if using npm)
 node_modules/
+package-lock.json
+yarn.lock
+.pnpm-debug.log
 
 # OS files
 .DS_Store
