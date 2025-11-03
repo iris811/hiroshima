@@ -12,18 +12,51 @@ const anthropic = new Anthropic({
 });
 
 // Load trip data for context
-let tripData = {};
-let hotelGuideData = {};
+function loadTripData() {
+    try {
+        // Try multiple paths for Vercel deployment
+        const possiblePaths = [
+            path.join(process.cwd(), 'data', 'itinerary.json'),
+            path.join(__dirname, '..', 'data', 'itinerary.json'),
+            './data/itinerary.json'
+        ];
 
-try {
-    tripData = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data', 'itinerary.json'), 'utf8'));
-    hotelGuideData = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data', 'hotel-guide.json'), 'utf8'));
-} catch (error) {
-    console.error('Failed to load trip data:', error);
+        let tripData = {};
+        for (const tryPath of possiblePaths) {
+            try {
+                tripData = JSON.parse(fs.readFileSync(tryPath, 'utf8'));
+                break;
+            } catch (e) {
+                continue;
+            }
+        }
+
+        let hotelGuideData = {};
+        const hotelPaths = [
+            path.join(process.cwd(), 'data', 'hotel-guide.json'),
+            path.join(__dirname, '..', 'data', 'hotel-guide.json'),
+            './data/hotel-guide.json'
+        ];
+
+        for (const tryPath of hotelPaths) {
+            try {
+                hotelGuideData = JSON.parse(fs.readFileSync(tryPath, 'utf8'));
+                break;
+            } catch (e) {
+                continue;
+            }
+        }
+
+        return { tripData, hotelGuideData };
+    } catch (error) {
+        console.error('Failed to load trip data:', error);
+        return { tripData: {}, hotelGuideData: {} };
+    }
 }
 
 // Create system prompt with trip context
 function createSystemPrompt() {
+    const { tripData, hotelGuideData } = loadTripData();
     const hotelGuide = hotelGuideData.hotelGuide || {};
     const tripInfo = tripData.trip || {};
 
