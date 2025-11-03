@@ -399,46 +399,6 @@
             "placeId": "ChIJyz9bjQyiWjURHMzhMGEGw8Q"
           },
           {
-            "name": "5-Days 어린이 문화 과학관",
-            "type": "관광",
-            "time": "오후 관광",
-            "address": "히로시마 시내",
-            "description": "어린이와 가족을 위한 과학 체험 박물관. 다양한 전시와 체험 활동이 있습니다.",
-            "mapUrl": "https://maps.app.goo.gl/EgaFNsNAQjt7eFKC6?g_st=ipc",
-            "coordinates": {
-              "lat": 34.405,
-              "lng": 132.455
-            },
-            "tags": [
-              "관광",
-              "박물관",
-              "체험"
-            ],
-            "referenceUrl": "https://blog.naver.com/cutehyun1010/223778379984",
-            "photoUrl": "images/day3_4_5_Days_어린이_문화_과학관.jpg",
-            "placeId": "ChIJJUrGPguiWjUR13ixgAoXM8g"
-          },
-          {
-            "name": "한국/조선인 원폭 희생자 위령비",
-            "type": "관광",
-            "time": "오후 관광",
-            "address": "평화 공원",
-            "description": "원폭으로 희생된 한국인들을 추모하는 위령비. 역사적 의미가 깊은 장소입니다.",
-            "mapUrl": "https://maps.app.goo.gl/rZGBLBsjfR512Efw7?g_st=ipc",
-            "coordinates": {
-              "lat": 34.39319,
-              "lng": 132.45475
-            },
-            "tags": [
-              "관광",
-              "역사",
-              "추모"
-            ],
-            "referenceUrl": "https://dive-hiroshima.com/kr/explore/3281/",
-            "photoUrl": "images/day3_5_한국_조선인_원폭_희생자_위령비.jpg",
-            "placeId": "ChIJbTBhvHKiWjURAwn5qKedNFs"
-          },
-          {
             "name": "오코노미야키 나가타야",
             "type": "식당",
             "time": "점심 옵션1",
@@ -454,7 +414,7 @@
               "오코노미야키",
               "일식"
             ],
-            "photoUrl": "https://images.unsplash.com/photo-1589711336041-6ba4052e6adb?w=800",
+            "photoUrl": "images/day3_6_오코노미야키_나가타야.jpg",
             "placeId": ""
           },
           {
@@ -494,6 +454,46 @@
             ],
             "photoUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800",
             "placeId": ""
+          },
+          {
+            "name": "5-Days 어린이 문화 과학관",
+            "type": "관광",
+            "time": "오후 관광",
+            "address": "히로시마 시내",
+            "description": "어린이와 가족을 위한 과학 체험 박물관. 다양한 전시와 체험 활동이 있습니다.",
+            "mapUrl": "https://maps.app.goo.gl/EgaFNsNAQjt7eFKC6?g_st=ipc",
+            "coordinates": {
+              "lat": 34.405,
+              "lng": 132.455
+            },
+            "tags": [
+              "관광",
+              "박물관",
+              "체험"
+            ],
+            "referenceUrl": "https://blog.naver.com/cutehyun1010/223778379984",
+            "photoUrl": "images/day3_4_5_Days_어린이_문화_과학관.jpg",
+            "placeId": "ChIJJUrGPguiWjUR13ixgAoXM8g"
+          },
+          {
+            "name": "한국/조선인 원폭 희생자 위령비",
+            "type": "관광",
+            "time": "오후 관광",
+            "address": "평화 공원",
+            "description": "원폭으로 희생된 한국인들을 추모하는 위령비. 역사적 의미가 깊은 장소입니다.",
+            "mapUrl": "https://maps.app.goo.gl/rZGBLBsjfR512Efw7?g_st=ipc",
+            "coordinates": {
+              "lat": 34.39319,
+              "lng": 132.45475
+            },
+            "tags": [
+              "관광",
+              "역사",
+              "추모"
+            ],
+            "referenceUrl": "https://dive-hiroshima.com/kr/explore/3281/",
+            "photoUrl": "images/day3_5_한국_조선인_원폭_희생자_위령비.jpg",
+            "placeId": "ChIJbTBhvHKiWjURAwn5qKedNFs"
           },
           {
             "name": "히로시마 안데르센",
