@@ -91,6 +91,37 @@ node server.js
 
 서버가 실행되면 브라우저에서 `http://localhost:3000`으로 접속하세요.
 
+## 🌐 웹에 배포하기 (Vercel)
+
+챗봇 기능을 포함하여 웹에 배포하려면 Vercel을 사용하세요:
+
+### 1. Vercel 계정 만들기
+
+1. [Vercel](https://vercel.com)에 접속
+2. GitHub 계정으로 회원가입/로그인
+
+### 2. GitHub 저장소 연결
+
+1. Vercel 대시보드에서 "New Project" 클릭
+2. GitHub 저장소 `iris811/hiroshima` 선택
+3. Import 클릭
+
+### 3. 환경 변수 설정
+
+프로젝트 설정에서 Environment Variables 추가:
+
+- `CLAUDE_API_KEY`: Claude API 키 입력
+
+### 4. 배포
+
+1. "Deploy" 버튼 클릭
+2. 몇 분 후 자동으로 배포 완료
+3. 제공된 URL(예: `https://hiroshima-trip.vercel.app`)로 접속
+
+### 5. 자동 배포
+
+이후 GitHub에 push할 때마다 자동으로 재배포됩니다.
+
 ### 📝 챗봇 없이 사용하기
 
 챗봇 기능 없이 정적 사이트로만 사용하려면:
