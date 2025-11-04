@@ -26,7 +26,7 @@
               "디저트"
             ],
             "referenceUrl": "https://www.setouchi-sanpo.com/articles/80470/",
-            "photoUrl": "https://setouchi-sanpo.hldycdn.com/wp-content/uploads/2023/10/06142238/image20231006-1-116sim2.webp",
+            "photoUrl": "images/day1_1_Candy_Apple_代官山.jpg",
             "placeId": "ChIJnV_jlr-jWjURr9NZwaLjpbo"
           },
           {
@@ -45,7 +45,7 @@
               "호텔"
             ],
             "referenceUrl": "https://www.tripadvisor.com/Hotel_Review-g298561-d17731903-Reviews-KIRO_Hiroshima_by_THE_SHARE_HOTELS-Hiroshima_Hiroshima_Prefecture_Chugoku.html",
-            "photoUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461407644.jpg?k=bc7ca09184a3f42d321c1cf9674534101515716ceea609d613a9be96503c4731&o=",
+            "photoUrl": "images/day1_2_KIRO_Hiroshima_by_THE_SHARE_HOTELS.jpg",
             "placeId": "ChIJo2EDnSyjWjUR8zpbgXJ_oKA"
           },
           {
@@ -65,7 +65,7 @@
               "이탈리안"
             ],
             "referenceUrl": "http://www.caffeponte.com/",
-            "photoUrl": "https://www.caffeponte.com/img/caffeponte.jpg",
+            "photoUrl": "images/day1_3_Caff_Ponte.jpg",
             "placeId": "ChIJAz10Fw2iWjUR1QVAzyoberA"
           },
           {
@@ -83,7 +83,7 @@
               "카페",
               "디저트"
             ],
-            "photoUrl": "https://www.aloft.co.jp/wp-content/themes/aloft/cmn/img/shoplist/shop07.jpg?v=202507290211",
+            "photoUrl": "images/day1_4_ALOFT_大手町店.jpg",
             "placeId": "ChIJPaL4vD2jWjURPCl2In7WNC8"
           },
           {
@@ -91,7 +91,7 @@
             "type": "식당",
             "time": "저녁 옵션1",
             "address": "히로시마 시내",
-            "description": "일본 전역에서 사랑받는 셀프 우동 전문 체인점입니다. '제면(製麺)'이라는 이름처럼 매장에서 직접 우동 면을 뽑아 신선한 우동을 제공합니다. 카운터에서 주문하면 눈앞에서 삶아주는 쫄깃한 면발의 우동을 받을 수 있으며, 가격은 300~600엔대로 매우 저렴합니다. 튀김(텐푸라)은 셀프로 선택할 수 있고, 기본 우동에 토핑을 추가하는 방식입니다. 인기 메뉴는 가케 우동(かけうどん), 부카케 우동(ぶっかけうどん) 등이 있습니다.",
+            "description": "일본 전역에서 사랑받는 셀프 우동 전문 체인점입니다. '제면(製麺)'이라는 이름처럼 매장에서 직접 우동 면을 뽑아 신선한 우동을 제공합니다. 카운터에서 주문하면 눈앞에서 삶아주는 쫄깃한 면발의 우동을 받을 수 있으며, 가격은 300~600엔대로 매우 저렴합니다. 튀김(텐푸라)은 선택할 수 있고, 기본 우동에 토핑을 추가하는 방식입니다. 인기 메뉴는 가케 우동(かけうどん), 부카케 우동(ぶっかけうどん) 등이 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/L4yUJNgHCyXhm9Xt7?g_st=ipc",
             "coordinates": {
               "lat": 34.392,
@@ -102,7 +102,7 @@
               "우동",
               "일식"
             ],
-            "photoUrl": "https://tblg.k-img.com/restaurant/images/Rvw/279712/264d2e0aa087237d1c3adf6d6c07622c.jpg",
+            "photoUrl": "images/day1_5_마루가메세멘_丸亀製麺広島新天地.jpg",
             "placeId": "ChIJVdLXKzOiWjURuHFeA9xjHPI"
           },
           {
@@ -110,7 +110,7 @@
             "type": "식당",
             "time": "저녁 옵션2",
             "address": "미카와초",
-            "description": "일본 전국에 400개 이상의 매장을 둔 일본식 정식(定食) 전문 체인점입니다. '정식'은 밥과 국, 메인 요리, 반찬이 세트로 나오는 한상 차림을 말합니다. 대표 메뉴로는 생강구이 정식(しょうが焼き定食), 사바 구이 정식(さば定食), 치킨 남반 정식(チキン南蛮定食) 등이 있으며, 가격은 700~900엔대로 합리적입니다. 모든 정식에는 흰쌀밥과 된장국이 포함되며, 밥과 국은 무제한으로 리필할 수 있어 배불리 먹을 수 있습니다. 양이 많고 영양 균형이 잘 맞아 한 끼 식사로 든든합니다. 식권기에서 티켓을 구매하는 방식이며, 메뉴판에 사진이 있어 주문하기 쉽습니다.",
+            "description": "일본 전국에 400개 이상의 매장을 둔 일본식 정식(定食) 전문 체인점입니다. '정식'은 밥과 국, 메인 요리, 반찬이 세트로 나오는 한상 차림을 말합니다. 대표 메뉴로는 생강구이 정식(しょうが焼き定食), 사바 구이 정식(さば定食), 치킨 남반 정식(チキン南蛮定食) 등이 있으며, 가격은 700~900엔대 입니다. 모든 정식에는 흰쌀밥과 된장국이 포함되며, 밥과 국은 무제한으로 리필할 수 있어 배불리 먹을 수 있습니다. 양이 많고 영양 균형이 잘 맞아 한 끼 식사로 든든합니다. 식권기에서 티켓을 구매하는 방식이며, 메뉴판에 사진이 있어 주문하기 쉽습니다.",
             "mapUrl": "https://maps.app.goo.gl/4J6xoaxaUYn2YJfx6?g_st=ipc",
             "coordinates": {
               "lat": 34.391,
@@ -121,7 +121,7 @@
               "일식",
               "정식"
             ],
-            "photoUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e8/0b/e1/20171008-193645-largejpg.jpg?w=2000&h=-1&s=1",
+            "photoUrl": "images/day1_6_야요이켄_미카와초_やよい軒_三川町店.jpg",
             "placeId": "ChIJSYMp7g-iWjURzRK19YvqCsk"
           }
         ]
@@ -138,7 +138,7 @@
             "type": "카페",
             "time": "아침",
             "address": "히로시마 시내",
-            "description": "덴마크 스타일의 프리미엄 베이커리 카페입니다. 1967년 히로시마에서 시작된 일본의 대표적인 베이커리 브랜드로, 고급스러운 인테리어와 다양한 종류의 빵으로 유명합니다. 아침 시간대에는 갓 구운 빵과 함께 커피나 주스를 즐길 수 있는 모닝 세트를 제공합니다. 특히 덴마크 페이스트리, 크루아상, 바게트 등이 인기이며, 1층은 빵 판매, 2층은 카페 공간으로 되어 있습니다. 여유롭게 아침 식사를 즐기기 좋은 곳입니다.",
+            "description": "덴마크 스타일의 프리미엄 베이커리 카페입니다. 1967년 히로시마에서 시작된 일본의 대표적인 베이커리 브랜드로, 고급스러운 인테리어와 다양한 종류의 빵으로 유명합니다. 아침 시간대에는 갓 구운 빵과 함께 커피나 주스를 즐길 수 있는 모닝 세트를 제공합니다. 1층은 베이커리 및 플라워 샵 등이 있으며, 2층은 카페 공간으로 되어 있습니다. 여유롭게 아침 식사를 즐기기 좋은 곳입니다.",
             "mapUrl": "https://maps.app.goo.gl/uDzrwCJUPP6ezyor9?g_st=ipc",
             "coordinates": {
               "lat": 34.393042,
@@ -157,7 +157,7 @@
             "type": "관광",
             "time": "오전 관광",
             "address": "미야지마",
-            "description": "유네스코 세계문화유산으로 지정된 일본 3대 신사 중 하나입니다. 593년에 창건된 유서 깊은 신사로, 바다 위에 떠 있는 듯한 붉은 오토리이(大鳥居)가 상징적입니다. 만조 때는 마치 바다 위에 신사가 떠 있는 것처럼 보이고, 간조 때는 도리이까지 걸어갈 수 있습니다. 신사 본전은 1168년에 재건된 것으로, 화려한 주홍색 건축물이 푸른 바다와 대비되어 절경을 이룹니다. 입장료는 300엔이며, 조수간만 시간을 확인하고 방문하면 다양한 모습을 볼 수 있습니다.",
+            "description": "유네스코 세계문화유산으로 지정된 일본 3대 신사 중 하나입니다. 593년에 창건된 유서 깊은 신사로, 바다 위에 떠 있는 듯한 붉은 오토리이(大鳥居)가 유명합니다. 만조 때는 마치 바다 위에 신사가 떠 있는 것처럼 보이고, 간조 때는 도리이까지 걸어갈 수 있습니다. 신사 본전은 1168년에 재건된 것으로, 화려한 주홍색 건축물이 푸른 바다와 대비되어 절경을 이룹니다. 입장료는 300엔이며, 조수간만 시간을 확인하고 방문하면 다양한 모습을 볼 수 있습니다.",
             "mapUrl": "https://maps.app.goo.gl/BhqXNczUHjp3eR4c9?g_st=ipc",
             "coordinates": {
               "lat": 34.295833,
@@ -175,9 +175,9 @@
           {
             "name": "tuGiico (ツギイコ)",
             "type": "식당",
-            "time": "굴 식당",
+            "time": "굴 요리",
             "address": "미야지마구치",
-            "description": "미야지마 페리 터미널에서 도보 8분 거리에 있는 현지 굴 전문 식당입니다. 히로시마산 신선한 생굴을 직접 구워 먹을 수 있는 오이스터 바로, 현지인과 관광객 모두에게 인기가 많습니다. 카운터 자리에 앉으면 눈앞에서 직접 굴을 구워주는 모습을 볼 수 있습니다. 생굴(生牡蠣), 구운 굴(焼き牡蠣), 굴튀김(カキフライ), 굴밥(牡蠣めし) 등 다양한 방식으로 조리된 굴 요리를 맛볼 수 있으며, 가격은 생굴 1개당 200~300엔대입니다. 특히 바다가 보이는 위치에서 갓 잡은 통통한 굴을 먹는 경험이 일품입니다. 점심시간에는 대기가 있을 수 있으니 시간 여유를 두고 방문하는 것이 좋습니다.",
+            "description": "미야지마 페리 터미널에서 도보 8분 거리에 있는 현지 굴 전문 식당입니다. 히로시마산 신선한 생굴을 직접 구워 먹을 수 있는 오이스터 바로, 현지인과 관광객 모두에게 인기가 많습니다. 카운터 자리에 앉으면 눈앞에서 직접 굴을 구워주는 모습을 볼 수 있습니다. 생굴(生牡蠣), 구운 굴(焼き牡蠣), 굴튀김(カキフライ), 굴밥(牡蠣めし) 등 다양한 방식으로 조리된 굴 요리를 맛볼 수 있으며, 가격은 생굴 1개당 200~300엔대입니다. 점심시간에는 대기가 있을 수 있으니 시간 여유를 두고 방문하는 것이 좋습니다.",
             "mapUrl": "https://maps.app.goo.gl/GnmsjZcuHCqPt9jV9",
             "coordinates": {
               "lat": 34.2977905,
@@ -197,7 +197,7 @@
             "type": "관광",
             "time": "오전 관광",
             "address": "미야지마",
-            "description": "미야지마에서 가장 역사 깊고 중요한 사원으로, 806년 창건되었습니다. 이쓰쿠시마 신사의 별당사(別当寺)로서 신사와 함께 섬의 종교 중심지 역할을 해왔습니다. 계단을 따라 올라가면 화려하게 장식된 여러 전각과 500개가 넘는 나한상(羅漢像)을 만날 수 있습니다. 각기 다른 표정의 나한상들은 하나하나 살펴보는 재미가 있습니다. 경내 곳곳에 불경을 새긴 돌과 만다라가 있으며, 정상에서는 미야지마 시내와 바다를 조망할 수 있습니다. 입장 무료이며, 조용히 산책하며 둘러보기 좋은 곳입니다.",
+            "description": "미야지마에서 가장 역사 깊고 중요한 사원으로, 806년 창건되었습니다. 이쓰쿠시마 신사의 별당사(別当寺)로서 신사와 함께 섬의 종교 중심지 역할을 해왔습니다. 계단을 따라 올라가면 화려하게 장식된 여러 전각과 500개가 넘는 나한상(羅漢像)을 만날 수 있습니다. 각기 다른 표정의 나한상들은 하나하나 살펴보는 재미가 있습니다. 경내 곳곳에 불경을 새긴 돌과 만다라가 있으며, 정상에서는 미야지마 시내와 바다를 조망할 수 있습니다. 입장은 무료이며, 조용히 산책하며 둘러보기 좋은 곳입니다.",
             "mapUrl": "https://maps.app.goo.gl/SiRGCAS5hsnSbMar9?g_st=ipc",
             "coordinates": {
               "lat": 34.29243,
@@ -335,7 +335,7 @@
               "카페",
               "커피전문점"
             ],
-            "photoUrl": "images/day3_1_Asahi_Coffee_Salon_Ebisuchu.jpg",
+            "photoUrl": "images/day3_1_Asahi_Coffee_Salon_Ebisucho.jpg",
             "placeId": "ChIJoULm-wWiWjURMRImVuloEv8"
           },
           {
@@ -355,7 +355,7 @@
               "뷔페"
             ],
             "referenceUrl": "https://blog.naver.com/writeun032/224000412570",
-            "photoUrl": "images/day4_5_마이도_오오키니_Maidookini_Hiroshimafukuromachi_Shokudote.jpg",
+            "photoUrl": "images/day3_2_마이도_오오키니_Maidookini_Hiroshimafukuromachi_Shokudote.jpg",
             "placeId": "ChIJI4A-YQ6iWjURQK7gnkqEg5k"
           },
           {
@@ -375,7 +375,7 @@
               "전통"
             ],
             "referenceUrl": "https://www.outdoornews.co.kr/news/articleView.html?idxno=34453",
-            "photoUrl": "images/day3_2_슛케이엔.jpg",
+            "photoUrl": "images/day3_3_슛케이엔.jpg",
             "placeId": "ChIJAfBmWKmYWjUR42FdSpYghNc"
           },
           {
@@ -395,7 +395,7 @@
               "포토스팟"
             ],
             "referenceUrl": "https://dive-hiroshima.com/kr/explore/2817/",
-            "photoUrl": "images/day3_3_오리즈루_타워.jpg",
+            "photoUrl": "images/day3_4_오리즈루_타워.jpg",
             "placeId": "ChIJyz9bjQyiWjURHMzhMGEGw8Q"
           },
           {
@@ -414,7 +414,7 @@
               "오코노미야키",
               "일식"
             ],
-            "photoUrl": "images/day3_6_오코노미야키_나가타야.jpg",
+            "photoUrl": "https://images.unsplash.com/photo-1589711336041-6ba4052e6adb?w=800",
             "placeId": ""
           },
           {
@@ -472,7 +472,7 @@
               "체험"
             ],
             "referenceUrl": "https://blog.naver.com/cutehyun1010/223778379984",
-            "photoUrl": "images/day3_4_5_Days_어린이_문화_과학관.jpg",
+            "photoUrl": "images/day3_8_5_Days_어린이_문화_과학관.jpg",
             "placeId": "ChIJJUrGPguiWjUR13ixgAoXM8g"
           },
           {
@@ -492,7 +492,7 @@
               "추모"
             ],
             "referenceUrl": "https://dive-hiroshima.com/kr/explore/3281/",
-            "photoUrl": "images/day3_5_한국_조선인_원폭_희생자_위령비.jpg",
+            "photoUrl": "images/day3_9_한국_조선인_원폭_희생자_위령비.jpg",
             "placeId": "ChIJbTBhvHKiWjURAwn5qKedNFs"
           },
           {
@@ -511,15 +511,15 @@
               "뷔페",
               "베이커리"
             ],
-            "photoUrl": "images/day3_6_히로시마_안데르센.jpg",
+            "photoUrl": "images/day3_10_히로시마_안데르센.jpg",
             "placeId": "ChIJVSxoiA6iWjUR7PT-M3z4oQA"
           },
           {
-            "name": "oyster bar バルタン7 (BALTAN seven)",
+            "name": "Oyster Bar (バルタン7, BALTAN seven)",
             "type": "식당",
             "time": "저녁 옵션2",
             "address": "히로시마 하쵸보리",
-            "description": "KIRO 호텔에서 도보 5분 거리에 있는 오이스터 바 겸 이탈리안 레스토랑입니다. 하쵸보리(八丁堀) 번화가 골목 안에 위치한 아늑한 분위기의 식당으로, 신선한 히로시마산 굴 요리를 전문으로 합니다. 생굴(生牡蠣), 구운 굴(焼き牡蠣), 굴 아히요(牡蠣アヒージョ), 굴 그라탱(牡蠣グラタン) 등 다양한 스타일의 굴 요리와 함께, 파스타와 피자 같은 이탈리안 메뉴도 제공합니다. 굴 요리는 1인분에 1,200~2,000엔대이며, 와인과 함께 즐기기 좋습니다. 세토나이카이(瀬戸内海)에서 잡은 신선한 해산물을 사용하며, 특히 굴 철(11월~3월)에 방문하면 가장 통통하고 맛있는 굴을 맛볼 수 있습니다. 실내는 바 형태의 카운터 좌석과 테이블 좌석이 있으며, 저녁 시간에는 분위기 있는 조명으로 데이트 장소로도 인기입니다.",
+            "description": "KIRO 호텔에서 도보 5분 거리에 있는 오이스터 바 겸 이탈리안 레스토랑입니다. 하쵸보리(八丁堀) 번화가 골목 안에 위치한 아늑한 분위기의 식당으로, 신선한 히로시마산 굴 요리를 전문으로 합니다. 생굴(生牡蠣), 구운 굴(焼き牡蠣), 굴 아히요(牡蠣アヒージョ), 굴 그라탕(牡蠣グラタン) 등 다양한 스타일의 굴 요리와 함께, 파스타와 피자 같은 이탈리안 메뉴도 제공합니다. 굴 요리는 1인분에 1,200~2,000엔대이며, 와인과 함께 즐기기 좋습니다. 세토나이카이(瀬戸内海)에서 잡은 신선한 해산물을 사용하며, 특히 굴 철(11월~3월)에 방문하면 가장 통통하고 맛있는 굴을 맛볼 수 있습니다. 실내는 바 형태의 카운터 좌석과 테이블 좌석이 있으며, 저녁 시간에는 분위기 있는 조명으로 데이트 장소로도 인기입니다.",
             "mapUrl": "https://maps.app.goo.gl/6GgroQRqQ5D8EEyB7",
             "coordinates": {
               "lat": 34.3907385,
@@ -531,8 +531,8 @@
               "오이스터바",
               "이탈리안"
             ],
-            "referenceUrl": "https://tabelog.com/en/hiroshima/A3401/A340114/34032793/",
-            "photoUrl": "images/day3_7_oyster_bar_バルタン7_BALTAN_seven.jpg",
+            "referenceUrl": "https://www.hotpepper.jp/strJ003942677/",
+            "photoUrl": "images/day3_11_oyster_bar_バルタン7_BALTAN_seven.jpg",
             "placeId": "ChIJs7-TGQCjWjURIIw1tdVqU7o"
           }
         ]

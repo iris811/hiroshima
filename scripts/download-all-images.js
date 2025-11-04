@@ -1,11 +1,10 @@
 const fs = require('fs');
 const https = require('https');
 const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '../.env') });
 
-// API key has been removed for security
-// This script was used to download images from Google Places API
-// Images are now stored locally in the images/ directory
-const API_KEY = 'YOUR_API_KEY_HERE';
+// Load API key from environment variable
+const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
 
 const ITINERARY_PATH = path.join(__dirname, '../data/itinerary.json');
 const IMAGES_DIR = path.join(__dirname, '../images');
@@ -106,16 +105,16 @@ async function processItinerary() {
       const place = day.places[i];
       const photoUrl = place.photoUrl;
 
-      // Check if it's a Google Places API URL
-      if (!photoUrl || !photoUrl.includes('places.googleapis.com')) {
-        console.log(`  ⏭️  Skipping ${place.name} (not Google API URL)`);
+      // Check if placeId exists
+      if (!place.placeId) {
+        console.log(`  ⏭️  Skipping ${place.name} (no placeId)`);
         skipCount++;
         continue;
       }
 
-      // Check if placeId exists
-      if (!place.placeId) {
-        console.log(`  ⚠️  No placeId for ${place.name}, skipping`);
+      // Skip if already using local path
+      if (photoUrl && photoUrl.startsWith('images/')) {
+        console.log(`  ✓ Already local: ${place.name}`);
         skipCount++;
         continue;
       }
