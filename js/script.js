@@ -25,9 +25,6 @@ function createDayCard(day) {
             <span class="day-card-date">${day.date}</span>
             <h3 class="day-card-title">${day.title}</h3>
             <p class="day-card-summary">${day.summary}</p>
-            <div class="day-card-places">
-                📍 ${placesText}
-            </div>
         </div>
     `;
 
