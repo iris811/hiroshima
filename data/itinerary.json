@@ -404,18 +404,18 @@
             "time": "점심 옵션1",
             "address": "히로시마 시내",
             "description": "평화 기념 공원 근처에 위치한 히로시마 스타일 오코노미야키 전문점입니다. 카운터 철판 좌석에 앉으면 요리사가 눈앞에서 직접 히로시마 오코노미야키를 만드는 과정을 볼 수 있습니다. 밀가루 반죽을 얇게 펴고 그 위에 양배추, 숙주, 돼지고기, 소바(또는 우동) 면, 계란을 겹겹이 쌓아 철판에서 구워내는 히로시마 특유의 조리 방식을 지켜봅니다. 메뉴는 기본 오코노미야키부터 치즈, 모찌, 해산물 등을 추가한 스페셜 메뉴까지 다양하며, 가격은 800~1,300엔대입니다. 갓 구워낸 오코노미야키를 철판 위에서 바로 먹으면 뜨겁고 고소한 맛이 일품입니다. 현지인들이 자주 찾는 맛집으로, 점심시간에는 대기가 있을 수 있습니다.",
-            "mapUrl": "https://share.google/aZGsmewUH1hN9NsyF",
+            "mapUrl": "https://maps.app.goo.gl/M35sTYFZGfpSGtS28",
             "coordinates": {
-              "lat": 34.395,
-              "lng": 132.455
+              "lat": 34.394216,
+              "lng": 132.454485
             },
             "tags": [
               "점심",
               "오코노미야키",
               "일식"
             ],
-            "photoUrl": "https://images.unsplash.com/photo-1589711336041-6ba4052e6adb?w=800",
-            "placeId": ""
+            "photoUrl": "images/day3_5_오코노미야키_나가타야.jpg",
+            "placeId": "ChIJOaWjGw2iWjUR5RdB0fPip1Q"
           },
           {
             "name": "Kome Kome Shokudo",
